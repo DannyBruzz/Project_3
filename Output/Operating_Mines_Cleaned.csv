@@ -1,0 +1,527 @@
+TITLE,SUB_TYPE,STAGE,PROJECT_TITLE,LONGITUDE,LATITUDE,COMMODITIES,COMMODITY_GROUP_NAME,TARGET_GROUP_NAME,LGA_NAME,DISTRICT_NAME,TECTONIC_UNIT
+Baneygo,Openpit,Operating,Duketon / Regis Resources,122.3125,-27.963344,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Eastern Goldfields Superterrane
+Beatons Creek - Golden Crown,Openpit,Operating,Beatons Creek JV,120.101598,-21.870333,Au Ag As Cu Bi Sb,Precious metal,GOLD,"EAST PILBARA, SHIRE OF",NULLAGINE,Northeast Pilbara Sub-basin
+Big Bell Underground,Decline,Operating,Cue Gold - Central Murchison,117.655357,-27.318659,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",CUE,Youanmi Terrane
+Aladdin Open Pit,Openpit,Operating,Cue Gold - Central Murchison,118.347188,-26.86947,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",MEEKATHARRA,Youanmi Terrane
+Bluebird - Bluebird South,Openpit,Operating,Cue Gold - Central Murchison,118.425102,-26.716249,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",MEEKATHARRA,Youanmi Terrane
+Five Mile Well,Openpit,Operating,Cue Gold - Central Murchison,118.54088,-26.529259,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",MEEKATHARRA,Youanmi Terrane
+Boorara Open Pit - Southern Stockworks,Openpit,Operating,Boorara / Horizon,121.644084,-30.809293,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Cosmopolitan Tailings,Tailings storage facility,Operating,Kookynie / Nex Metals,121.4954,-29.337562,Au,Precious metal,GOLD,"MENZIES, SHIRE OF",NIAGARA,Eastern Goldfields Superterrane
+Morrison,Openpit,Operating,Golden Mile / KCGM,121.508466,-30.789484,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Yarlarweelor North & South,Openpit,Operating,Fortnum,118.360354,-25.343679,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Bryah Basin
+Goongarrie Lady,Openpit,Operating,Goongarrie Lady,121.184481,-30.081354,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",MENZIES,Eastern Goldfields Superterrane
+Paris,Openpit,Operating,GBF Paris ,121.975881,-31.588763,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Hawkins Find,Openpit,Operating,Hawkins Find,121.02196,-30.498387,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",KUNANALLING,Eastern Goldfields Superterrane
+Lord Byron Southeast,Openpit,Operating,Jasper Hills ,123.043943,-29.131214,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",MT. MORGANS,Burtville Terrane
+Jupiter - Joanne - Doublejay,Openpit,Operating,Mt Morgans,122.219287,-28.807189,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Last Chance East,Unspecified,Operating,Kanowna - Golden Valley,121.601997,-30.594219,Au,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",KANOWNA,Eastern Goldfields Superterrane
+Harrys Hill,Openpit,Operating,Aldiss - Karonie,122.558028,-31.045011,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",KURNALPI,Eastern Goldfields Superterrane
+Lloyd George - Gibraltar,Openpit,Operating,Gibraltar South / Torian,120.967452,-31.04095,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Star of Mangaroon,Shaft,Operating,Mangaroon Gold,115.746101,-23.867599,Au Pb Ag,Precious metal,GOLD,"UPPER GASCOYNE, SHIRE OF",GASCOYNE M.F.,Gascoyne Province
+Mt Marven,Openpit,Operating,Mt Morgans,122.175598,-28.81282,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Racetrack - Racetrack West,Openpit,Operating,Paddington - Mt Pleasant,121.22703,-30.556282,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BROAD ARROW M.F.,Eastern Goldfields Superterrane
+Nevoria Underground,Decline,Operating,Marvel Loch - Southern Cross,119.588401,-31.507265,Au Ag,Precious metal,GOLD,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Enterprise Open Pit,Openpit,Operating,Ora Banda / Norton,121.088414,-30.372122,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BROAD ARROW M.F.,Eastern Goldfields Superterrane
+Million Dollar North,Openpit,Operating,Porphyry - Northern Operations,122.285975,-29.799054,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",YERILLA,Yilgarn Craton granites
+Queen Lapage,Openpit,Operating,Queen Lapage,121.979797,-30.61618,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BULONG,Eastern Goldfields Superterrane
+Missouri,Openpit,Operating,Davyhurst - Lady Ida - Mulline - Riverina - Siberia Gold,120.953665,-30.219187,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BROAD ARROW M.F.,Eastern Goldfields Superterrane
+Second Fortune,Decline,Operating,Linden Gold,122.435819,-29.376506,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Spargos Reward,Openpit,Operating,Spargos Reward,121.47075,-31.236454,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Jasper - Aucklands,Openpit,Operating,Gwalia - Leonora,121.243896,-28.75897,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",MT. MALCOLM,Eastern Goldfields Superterrane
+Telfer Main Dome,Openpit,Operating,Telfer / Newcrest,122.207118,-21.719565,Au Cu Ag,Precious metal,GOLD,"EAST PILBARA, SHIRE OF",MARBLE BAR,Yeneena Basin
+Edna May Underground,Decline,Operating,Edna May - Westonia,118.700154,-31.291771,Au Ag Opalc,Precious metal,GOLD,"WESTONIA, SHIRE OF",YILGARN M.F.,South West Terrane
+Edna May - Westonia,Openpit,Operating,Edna May - Westonia,118.698538,-31.290258,Au W Ag,Precious metal,GOLD,"WESTONIA, SHIRE OF",YILGARN M.F.,Yilgarn Craton granites
+Bulletin - Wiluna,Openpit,Operating,Matilda,120.246696,-26.61145,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Eastern Goldfields Superterrane
+Anglo Saxon - Trouser Legs,Openpit,Operating,Anglo Saxon - Trouser Legs,122.731479,-30.076781,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",YERILLA,Eastern Goldfields Superterrane
+Great Victoria - GVG,Openpit,Operating,Marvel Loch - Southern Cross,119.5737,-31.544279,Au Ag,Precious metal,GOLD,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Mt Charlotte,Shaft,Operating,Golden Mile / KCGM,121.480904,-30.746441,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Porphyry Open Pit,Openpit,Operating,Porphyry - Northern Operations,122.285004,-29.780899,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",YERILLA,Yilgarn Craton granites
+Two Boys / Karora,Decline,Operating,Higginsville,121.724998,-31.74041,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Bellevue Underground,Unspecified,Operating,Bellevue,120.557701,-27.638941,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",LAWLERS,Eastern Goldfields Superterrane
+Wandoo South,Openpit,Operating,Boddington Gold,116.357519,-32.753078,Au Cu As Bi Ag,Precious metal,GOLD,"BODDINGTON, SHIRE OF",SOUTH WEST M.F.,South West Terrane
+Mickey Doolan,Openpit,Operating,Cue Gold - Central Murchison,118.502775,-26.618099,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",MEEKATHARRA,Youanmi Terrane
+Comet - Pinnacles Underground,Decline,Operating,Cue Gold - Central Murchison,118.043602,-27.5401,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",DAY DAWN,Youanmi Terrane
+George Palmer Pit,Openpit,Operating,Sino - Cape Preston Iron,116.141296,-21.081341,Fe Mag Fe2O3,Iron,IRON ORE,"KARRATHA, CITY OF",ASHBURTON M.F.,Hamersley Basin
+Halleys,Openpit,Operating,Ravensthorpe - First Quantum,120.374303,-33.633382,Ni Co Mg,Steel alloy metal,NICKEL,"RAVENSTHORPE, SHIRE OF",PHILLIPS RIVER M.F.,Youanmi Terrane
+"Deepdale Mesa J Pits 1-12, J Extended",Openpit,Operating,Robe River - Deepdale,116.247354,-21.751437,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",ASHBURTON M.F.,Hamersley Basin
+Gossan Hill Portal,Decline,Operating,Golden Grove,116.962407,-28.765087,Cu Zn Pb Ag Au,Base metal,COPPER - LEAD - ZINC,"YALGOO, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Scuddles Portal - Cervantes,Decline,Operating,Golden Grove,116.945103,-28.744567,Zn Pb Cu Ag Au,Base metal,COPPER - LEAD - ZINC,"YALGOO, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Goliath North - Mt Keith Satellite,Openpit,Operating,Mt Keith / BHP Billiton,120.58921,-27.44865,Ni,Steel alloy metal,NICKEL,"LEONORA, SHIRE OF",LAWLERS,Eastern Goldfields Superterrane
+Cornwall Primary Pegmatite,Openpit,Operating,Greenbushes Tantalum,116.059879,-33.855804,Ta Li Sn Ta2O5 SnO2,Speciality metal,TIN - TANTALUM - LITHIUM,"BRIDGETOWN-GREENBUSHES, SHIRE OF",GREENBUSHES M.F.,South West Terrane
+Durkin North,Decline,Operating,Kambalda / Mincor,121.661201,-31.164049,Ni Cu Co,Steel alloy metal,NICKEL,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Lanfranchi,Decline,Under Development,Lanfranchi Tramways,121.842903,-31.505461,Ni Cu,Steel alloy metal,NICKEL,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Wheelarra 4,Openpit,Operating,Jimblebar-Wheelarra-Hashimoto / BHPB,120.1371,-23.380329,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+Cliffs Underground,Decline,Operating,Leinster,120.541753,-27.304974,Ni Cu,Steel alloy metal,NICKEL,"LEONORA, SHIRE OF",LAWLERS,Eastern Goldfields Superterrane
+Tom Price Main and Remnants,Openpit,Operating,Tom Price / Rio Tinto,117.776095,-22.769347,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Turner Syncline Section 10,Openpit,Operating,Turner Syncline West,117.586304,-22.66221,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Nammuldi Lens C,Openpit,Operating,Brockman 2 - Nammuldi - Silvergrass - Homestead / Rio Tinto,117.337502,-22.412291,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Mt Whaleback,Openpit,Operating,Newman / BHPB,119.6754,-23.36536,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+Mt Newman Orebody 29,Openpit,Operating,Newman / BHPB,119.703796,-23.382259,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+Paraburdoo 18 East,Openpit,Operating,Paraburdoo / Rio Tinto,117.631302,-23.25565,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Silvergrass Pit 4,Openpit,Operating,Brockman 2 - Nammuldi - Silvergrass - Homestead / Rio Tinto,117.303539,-22.317757,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Six Mile Well - Mt Keith Satellite,Openpit,Operating,Mt Keith / BHP Billiton,120.57824,-27.422664,Ni,Steel alloy metal,NICKEL,"LEONORA, SHIRE OF",LAWLERS,Eastern Goldfields Superterrane
+Hope Downs 1 South Central,Openpit,Operating,Hope Downs Joint Venture,119.107344,-22.99867,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Paraburdoo 23 East,Openpit,Operating,Paraburdoo / Rio Tinto,117.653999,-23.24884,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Abra Underground,Decline,Under Development,Abra - Mulgul,118.585512,-24.638213,Pb Cu Zn Au Ag,Base metal,COPPER - LEAD - ZINC,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Edmund Basin
+Rockys Reward Openpit,Openpit,Operating,Leinster,120.697197,-27.791439,Ni Cu,Steel alloy metal,NICKEL,"LEONORA, SHIRE OF",LAWLERS,Eastern Goldfields Superterrane
+Perseverance  Underground,Decline,Operating,Leinster,120.705597,-27.818119,Ni Cu Gsp,Steel alloy metal,NICKEL,"LEONORA, SHIRE OF",LAWLERS,Eastern Goldfields Superterrane
+Brockman 4 - Pit 3 Central,Openpit,Operating,Brockman 4 Area / Rio Tinto,117.21332,-22.598789,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Paraburdoo 84 East (Pits 1-5),Openpit,Operating,Channar,117.8228,-23.302509,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Deepdale Mesa A Pits 1-8,Openpit,Operating,Robe River - Deepdale,115.886497,-21.672581,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",ASHBURTON M.F.,Ashburton Basin
+Coondiner HD4 East,Openpit,Operating,Hope Downs Joint Venture,119.574358,-23.145752,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+MAC - Deposit C West Pit,Openpit,Operating,Mining Area C,118.962601,-22.92985,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+MAC - Deposit D,Openpit,Operating,Mining Area C,118.9432,-22.933431,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+MAC - Deposit E East Pit,Openpit,Operating,Mining Area C,118.927299,-22.932541,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+MAC - Deposit F,Openpit,Operating,Mining Area C,118.875742,-22.941724,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+MAC - South Flank,Openpit,Operating,Mining Area C,118.923302,-22.998671,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Mt Newman Orebody 25 - Pit 3,Openpit,Operating,Newman / BHPB,119.818298,-23.32995,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+Mt Newman Orebody 18 Main - Shovelanna Hill,Openpit,Operating,Newman / BHPB,120.04202,-23.333315,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+Mt Newman Orebody 24 East,Openpit,Operating,Newman / BHPB,119.810799,-23.304199,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Mt Newman Orebody 30,Openpit,Operating,Newman / BHPB,119.662327,-23.377239,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+Mt Newman Orebody 35,Openpit,Operating,Newman / BHPB,119.657303,-23.38965,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+Paraburdoo 64 East,Openpit,Operating,Channar,117.774498,-23.30332,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Mt Keith Open Pit,Openpit,Operating,Mt Keith / BHP Billiton,120.54174,-27.229599,Ni,Steel alloy metal,NICKEL,"WILUNA, SHIRE OF",WILUNA,Eastern Goldfields Superterrane
+Greenbushes C3 Spodumene,Openpit,Operating,Greenbushes Lithium,116.065794,-33.85892,Li Li2O Ta Sn,Speciality metal,TIN - TANTALUM - LITHIUM,"BRIDGETOWN-GREENBUSHES, SHIRE OF",GREENBUSHES M.F.,South West Terrane
+Cassiterite,Openpit,Operating,Wodgina Mining Assets / Mineral Resources,118.674092,-21.190332,Li Ta Sn Rb,Speciality metal,TIN - TANTALUM - LITHIUM,"PORT HEDLAND, TOWN OF",MARBLE BAR,Gorge Creek Basin
+Mt Cattlin - Dowling Openpit,Openpit,Operating,Mt Cattlin Spodumene,120.033982,-33.562506,Li Ta Nb,Speciality metal,TIN - TANTALUM - LITHIUM,"RAVENSTHORPE, SHIRE OF",PHILLIPS RIVER M.F.,Youanmi Terrane
+Stellar,Openpit,Operating,Mt Magnet,117.782492,-28.048626,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",MT. MAGNET,Youanmi Terrane
+Bullant - Ora Banda,Decline,Operating,Paddington - Mt Pleasant,121.0578,-30.52747,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",KUNANALLING,Eastern Goldfields Superterrane
+Golden Ridge,Openpit,Operating,Golden Ridge,121.667345,-30.847844,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Rothsay Underground,Decline,Operating,Rothsay,116.877078,-29.288679,Au Ag,Precious metal,GOLD,"PERENJORI, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Aquarius,Openpit,Operating,Marvel Loch - Southern Cross,119.322009,-31.271359,Au Ag,Precious metal,GOLD,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Harbour Lights Underground,Decline,Operating,Gwalia - Leonora,121.321999,-28.87369,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",MT. MALCOLM,Eastern Goldfields Superterrane
+Sons of Gwalia Underground,Decline,Operating,Gwalia - Leonora,121.333474,-28.918421,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",MT. MALCOLM,Eastern Goldfields Superterrane
+Gault,Unspecified,Operating,Tampia,118.451698,-32.16235,Au Ag,Precious metal,GOLD,"NAREMBEEN, SHIRE OF",SOUTH WEST M.F.,Yilgarn Craton granites
+Telfer Underground,Decline,Operating,Telfer / Newcrest,122.202732,-21.722441,Au Ag,Precious metal,GOLD,"EAST PILBARA, SHIRE OF",MARBLE BAR,Yeneena Basin
+Zelica,Openpit,Operating,Zelica - Eucalyptus,122.174906,-29.216841,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Fairplay North - Fairplay Northeast,Openpit,Operating,Higginsville,121.72817,-31.746394,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Vegas - Galaxy,Openpit,Operating,Mt Magnet,117.790979,-28.037313,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",MT. MAGNET,Youanmi Terrane
+Matilda 6,Openpit,Operating,Matilda,120.219902,-26.76825,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Youanmi Terrane
+Edwards - Nullagine,Openpit,Operating,Beatons Creek JV,120.098121,-21.868989,Au Ag,Precious metal,GOLD,"EAST PILBARA, SHIRE OF",NULLAGINE,Northeast Pilbara Sub-basin
+Golden Funnel,Openpit,Operating,Paddington - Mt Pleasant,121.247079,-30.579425,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BROAD ARROW M.F.,Eastern Goldfields Superterrane
+Frasers Central Opencut,Openpit,Operating,Marvel Loch - Southern Cross,119.330752,-31.239486,Au Ag,Precious metal,GOLD,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Matilda 4 Iceberg - Scorchers - Sixers,Openpit,Operating,Matilda,120.215342,-26.750194,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Youanmi Terrane
+Daisy - Milano,Decline,Operating,Randalls - Mt Monger,121.921362,-31.013137,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Mungari / Bereth,Openpit,Operating,Coolgardie / Bereth,121.281998,-30.90346,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Mulgarrie,Openpit,Operating,Paddington - Mt Pleasant,121.515147,-30.383512,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",KANOWNA,Eastern Goldfields Superterrane
+Penny West,Openpit,Under Development,Penny Gold,118.810428,-28.853896,Au Ag,Precious metal,GOLD,"SANDSTONE, SHIRE OF",BLACK RANGE,Youanmi Terrane
+Packsaddle Range P3,Openpit,Operating,Mining Area C,118.960528,-22.905626,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Paraburdoo 94 East,Openpit,Operating,Channar,117.848297,-23.305981,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Paraburdoo 11 West,Openpit,Operating,Paraburdoo / Rio Tinto,117.561302,-23.22591,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Gudai-Darri K58,Openpit,Operating,Gudai-Darri,119.038123,-22.53376,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Turner Syncline B1 Main,Openpit,Operating,Turner Syncline West,117.462898,-22.679331,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Billiard - Billiard South,Openpit,Under Development,Yandicoogina / HI-Yandi,119.299568,-22.809575,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Wheelarra 2,Openpit,Operating,Jimblebar-Wheelarra-Hashimoto / BHPB,120.086534,-23.371527,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+South Jimblebar - Central 1a-b,Openpit,Operating,Jimblebar-Wheelarra-Hashimoto / BHPB,120.118294,-23.39572,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+Wheelarra 3 Scree,Openpit,Operating,Jimblebar-Wheelarra-Hashimoto / BHPB,120.116096,-23.380619,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+Wheelarra 1,Openpit,Operating,Jimblebar-Wheelarra-Hashimoto / BHPB,120.083105,-23.378769,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+Marillana Creek Eastern Mesa 2,Openpit,Operating,Marillana Creek - Yandi / BHPB,119.113602,-22.74144,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Mt Newman Orebody 24 Far West,Openpit,Operating,Newman / BHPB,119.758003,-23.29225,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Mt Newman Orebody 24 West,Openpit,Operating,Newman / BHPB,119.773598,-23.2953,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Mt Newman Orebody 24 Intermediate,Openpit,Operating,Newman / BHPB,119.792397,-23.300051,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Mt Newman Orebody 24 Far East,Openpit,Operating,Newman / BHPB,119.825798,-23.305309,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Hampton - Boulder Underground,Decline,Operating,South Kalgoorlie Operations,121.606576,-31.034576,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Dolly Pot,Openpit,Operating,Marda / Southern Cross,119.258698,-30.19759,Au Ag,Precious metal,GOLD,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Kanowna Belle,Decline,Operating,Kanowna - Golden Valley,121.578007,-30.608995,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",KANOWNA,Eastern Goldfields Superterrane
+Plutonic Area 4 Openpit,Openpit,Operating,Plutonic Gold,119.481796,-25.316059,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Eastern Goldfields Superterrane
+Bullen,Decline,Operating,Central Norseman,121.798698,-32.197948,Au Ag,Precious metal,GOLD,"DUNDAS, SHIRE OF",DUNDAS M.F.,Eastern Goldfields Superterrane
+Hannans North Tourist Mine,Shaft,Operating,Hannans North Tourist Mine,121.470596,-30.72789,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Paraburdoo 5 West,Openpit,Operating,Paraburdoo / Rio Tinto,117.576028,-23.218031,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Genesis Underground,Decline,Operating,Agnew - Emu,120.497002,-27.978439,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",LAWLERS,Yilgarn Craton
+Triton North Underground,Unspecified,Operating,Cue Gold - Central Murchison,118.268303,-27.131821,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",CUE,Youanmi Terrane
+South Emu - Triton Underground,Adit,Operating,Cue Gold - Central Murchison,118.266899,-27.13797,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",CUE,Youanmi Terrane
+Triton Underground,Decline,Operating,Cue Gold - Central Murchison,118.2677,-27.13336,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",CUE,Youanmi Terrane
+Mungada West - Blue Hills,Openpit,Operating,Koolanooka & Blue Hills - Mungada / Sinosteel,116.862556,-29.141272,Fe Mag,Iron,IRON ORE,"PERENJORI, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Mungada East - Blue Hills,Openpit,Operating,Koolanooka & Blue Hills - Mungada / Sinosteel,116.883314,-29.142147,Fe,Iron,IRON ORE,"PERENJORI, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Warramboo - Mesa A,Openpit,Operating,Robe River - Deepdale,115.830597,-21.66316,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",ASHBURTON M.F.,Lambert Shelf
+Marillana Creek Central Mesa 5,Openpit,Operating,Marillana Creek - Yandi / BHPB,119.100601,-22.724819,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Cracker,Openpit,Operating,Woodie Woodie (Mining Corridor) / ConsMin,121.221107,-21.61024,Mn,Steel alloy metal,MANGANESE ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Hamersley Basin
+Jasper Hill - Redcliffe,Openpit,Operating,Gwalia - Leonora,121.223602,-28.757,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",MT. MALCOLM,Eastern Goldfields Superterrane
+Norton - Nevoria,Openpit,Operating,Marvel Loch - Southern Cross,119.592796,-31.50873,Au Ag,Precious metal,GOLD,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Hidden Secret - Kalgoorlie,Decline,Operating,Golden Mile / KCGM,121.488098,-30.745911,Au,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Nimary Three,Decline,Operating,Jundee - Nimary,120.594002,-26.37397,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Eastern Goldfields Superterrane
+Mousehollow,Openpit,Under Development,Higginsville,121.819011,-31.784391,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+West Angelas Deposit B,Openpit,Operating,West Angelas,118.767575,-23.118524,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+West Angelas Deposit E,Openpit,Operating,West Angelas,118.789979,-23.198053,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Hill 60 Underground,Decline,Operating,Mt Magnet,117.833877,-28.073274,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",MT. MAGNET,Youanmi Terrane
+Bulletin - Bamboo Creek,Openpit,Operating,Bamboo Creek Gold,120.240997,-20.949409,Au Ag,Precious metal,GOLD,"EAST PILBARA, SHIRE OF",MARBLE BAR,Northeast Pilbara Sub-basin
+Golden Pike,Openpit,Operating,Golden Mile / KCGM,121.502066,-30.776552,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Happy Jack - Tirau Underground,Decline,Operating,Matilda,120.239403,-26.619221,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Eastern Goldfields Superterrane
+Scotia South,Openpit,Operating,Central Norseman,121.791702,-32.476181,Au,Precious metal,GOLD,"DUNDAS, SHIRE OF",DUNDAS M.F.,"Northern Foreland, Albany-Fraser Orogen"
+Scotia North,Openpit,Operating,Central Norseman,121.792603,-32.470928,Au Ag,Precious metal,GOLD,"DUNDAS, SHIRE OF",DUNDAS M.F.,"Northern Foreland, Albany-Fraser Orogen"
+Tank,Openpit,Operating,Aldiss - Karonie,122.559442,-31.071025,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",KURNALPI,Eastern Goldfields Superterrane
+Rumbles Open Pit,Openpit,Operating,Randalls - Mt Monger,122.188267,-31.068289,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BULONG,Eastern Goldfields Superterrane
+Great Western / Red 5,Openpit,Operating,Great Western,121.180492,-28.317054,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",MT. MALCOLM,Yilgarn Craton granites
+Westralia Deeps - Mt Morgans Underground,Decline,Operating,Mt Morgans,122.0679,-28.769622,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Gordon-Sirdar Openpit,Openpit,Operating,Gordon - Sirdar,121.594498,-30.45035,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",KANOWNA,Eastern Goldfields Superterrane
+Deflector Central,Openpit,Operating,Deflector,116.379426,-28.669106,Au Cu Ag,Precious metal,GOLD,"YALGOO, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Salmon - Salmon East and North,Openpit,Operating,Plutonic Gold,119.545403,-25.299311,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Eastern Goldfields Superterrane
+Million Dollar South,Openpit,Operating,Porphyry - Northern Operations,122.285777,-29.804468,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",YERILLA,Yilgarn Craton granites
+Curara Well - Kirkalocka,Openpit,Operating,Kirkalocka,117.761538,-28.674935,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Paddys Flat Underground,Decline,Operating,Cue Gold - Central Murchison,118.508598,-26.60535,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",MEEKATHARRA,Youanmi Terrane
+Beta Hunt Underground Nickel,Decline,Operating,Kambalda Nickel / RNC,121.689961,-31.242554,Ni Cu,Steel alloy metal,NICKEL,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Riverina Openpit,Openpit,Operating,Davyhurst - Lady Ida - Mulline - Riverina - Siberia Gold,120.564972,-29.744602,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",ULARRING,Eastern Goldfields Superterrane
+Jaurdi,Openpit,Operating,Jaurdi - Cammi's Creek,120.925003,-30.688709,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",KUNANALLING,Eastern Goldfields Superterrane
+28 Pit - SBS28,Openpit,Operating,South Kalgoorlie Operations,121.246201,-30.963989,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Goldstream,Openpit,Operating,Marda / Southern Cross,119.280587,-30.202968,Au Ag,Precious metal,GOLD,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Cobra - Marda,Unspecified,Operating,Marda / Southern Cross,119.247803,-30.19342,Au Ag,Precious metal,GOLD,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+King Brown - Marda,Openpit,Operating,Marda / Southern Cross,119.119377,-30.116279,Au Ag,Precious metal,GOLD,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Golden Delicious,Openpit,Operating,Sunrise Dam,122.459342,-29.013648,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Eastern Goldfields Superterrane
+Great Fingall Openpit,Openpit,Operating,Cue Gold - Central Murchison,117.85805,-27.461048,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",DAY DAWN,Youanmi Terrane
+Extension Cord,Openpit,Operating,Woodie Woodie (Mining Corridor) / ConsMin,121.243836,-21.652708,Mn,Steel alloy metal,MANGANESE ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Hamersley Basin
+Darlot Underground,Decline,Operating,Darlot,121.268898,-27.887529,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",MT. MALCOLM,Eastern Goldfields Superterrane
+Santa,Decline,Operating,Randalls - Mt Monger,122.209736,-31.040615,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BULONG,Eastern Goldfields Superterrane
+Janet Ivy,Openpit,Operating,Binduli,121.383328,-30.774467,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Maid Marion - Meekatharra North,Openpit,Operating,Cue Gold - Central Murchison,118.5933,-26.46312,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",MEEKATHARRA,Youanmi Terrane
+Moonbeam,Openpit,Operating,Kundana - White Flag,121.243797,-30.7213,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",KUNANALLING,Eastern Goldfields Superterrane
+Vivien,Openpit,Operating,Vivien,120.568522,-27.976476,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",LAWLERS,Eastern Goldfields Superterrane
+Atriedes - Karonie,Openpit,Operating,Aldiss - Karonie,122.559575,-31.065608,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",KURNALPI,Eastern Goldfields Superterrane
+Marillana Creek Central Mesa 1,Openpit,Operating,Marillana Creek - Yandi / BHPB,119.065498,-22.718639,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Maxwells,Decline,Operating,Randalls - Mt Monger,122.198932,-31.08101,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BULONG,Eastern Goldfields Superterrane
+Murrin North (PAN Production),Openpit,Operating,Murrin Murrin / Minara,121.8955,-28.747169,Ni Co,Steel alloy metal,NICKEL,"LAVERTON, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Otto Bore,Openpit,Operating,Thunderbox Gold,121.015082,-28.111005,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",LAWLERS,Eastern Goldfields Superterrane
+Cockeyed Bob Deeps,Decline,Operating,Randalls - Mt Monger,122.176786,-31.088521,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BULONG,Eastern Goldfields Superterrane
+King of the Hills Underground,Decline,Operating,Tarmoola - King of the Hills,121.163002,-28.671459,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",MT. MALCOLM,Eastern Goldfields Superterrane
+Gilbeys - Dalgaranga,Openpit,Operating,Dalgaranga - Gilbeys,117.265226,-27.846241,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",YALGOO M.F.,Yilgarn Craton granites
+Elverdton Dumps,Tailings storage facility,Operating,Elverdton Dumps,120.147935,-33.625027,Cu Au,Base metal,COPPER - LEAD - ZINC,"RAVENSTHORPE, SHIRE OF",PHILLIPS RIVER M.F.,Youanmi Terrane
+Bungarra,Openpit,Operating,North Laverton Gold,121.466839,-27.400148,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",MT. MALCOLM,Eastern Goldfields Superterrane
+Cutters Ridge Main,Openpit,Operating,Mungari / Evolution,121.182302,-30.771702,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Plutonic Zone 19 and Zone 550 - Baltic,Decline,Operating,Plutonic Gold,119.442596,-25.293249,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Eastern Goldfields Superterrane
+Panther,Openpit,Operating,Jaurdi - Cammi's Creek,120.884697,-30.68709,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",KUNANALLING,Eastern Goldfields Superterrane
+Hale-Bopp,Openpit,Operating,Ravensthorpe - First Quantum,120.400034,-33.666733,Ni Co FeOre Al Mg Ca Carb Cu Zn,Steel alloy metal,NICKEL,"RAVENSTHORPE, SHIRE OF",PHILLIPS RIVER M.F.,Youanmi Terrane
+White Foil,Openpit,Operating,Mungari / Evolution,121.250603,-30.773726,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Golden Wings,Openpit,Operating,Dalgaranga - Gilbeys,117.295898,-27.821173,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",YALGOO M.F.,Yilgarn Craton granites
+Centenary - Oval,Decline,Operating,Darlot,121.285769,-27.886146,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",MT. MALCOLM,Eastern Goldfields Superterrane
+New Holland South Underground,Decline,Operating,Agnew - Emu,120.497378,-27.985018,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",LAWLERS,Yilgarn Craton
+Granny Venn,Openpit,Operating,East Menzies Gold,121.091797,-29.664061,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",MENZIES,Eastern Goldfields Superterrane
+Bulletin Underground,Decline,Operating,Matilda,120.246696,-26.61145,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Eastern Goldfields Superterrane
+Federal,Openpit,Operating,Paddington - Mt Pleasant,121.4133,-30.412621,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BROAD ARROW M.F.,Yilgarn Craton granites
+Lady Rosie,Openpit,Operating,Cue Gold - Central Murchison,117.801355,-27.395183,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",CUE,Youanmi Terrane
+Hope Downs 1 Flat Top,Openpit,Operating,Hope Downs Joint Venture,119.117964,-22.959206,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Arctic Zone,Openpit,Operating,Kundana - White Flag,121.220299,-30.693701,Au,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",KUNANALLING,Eastern Goldfields Superterrane
+Porphyry - Ora Banda,Openpit,Operating,Paddington - Mt Pleasant,121.0233,-30.49255,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",KUNANALLING,Eastern Goldfields Superterrane
+Rosemont,Openpit,Operating,Duketon / Regis Resources,122.27453,-27.838985,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Eastern Goldfields Superterrane
+Klondyke,Openpit,Operating,Warrawoona Gold / Calidus,119.892303,-21.33811,Au Ag,Precious metal,GOLD,"EAST PILBARA, SHIRE OF",MARBLE BAR,Warrawoona  Large Igneous Province
+Jakarta,Openpit,Operating,Paddington - Mt Pleasant,121.401912,-30.42485,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BROAD ARROW M.F.,Yilgarn Craton granites
+Anchor - Zeta,Openpit,Under Development,Duketon / Regis Resources,122.34753,-27.672218,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Burtville Terrane
+Fort William,Openpit,Operating,Binduli,121.384102,-30.788719,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Sunrise Dam Underground,Decline,Operating,Sunrise Dam,122.419353,-29.079405,Au Ag As,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Mt Marion North Pit 1 (N01),Openpit,Operating,Mt Marion Lithium,121.461471,-31.073597,Li Ta Mica Spd Li2O,Speciality metal,TIN - TANTALUM - LITHIUM,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Plutonic Zone 124,Decline,Operating,Plutonic Gold,119.442299,-25.30196,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Yilgarn Craton granites
+Plutonic Northwest,Decline,Operating,Plutonic Gold,119.438004,-25.314529,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Eastern Goldfields Superterrane
+The Mount,Decline,Operating,The Mount,121.56947,-31.528304,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Shoemaker - Levy,Openpit,Operating,Ravensthorpe - First Quantum,120.325452,-33.576416,Ni Co FeOre Al Mg Ca Carb Cu Zn,Steel alloy metal,NICKEL,"RAVENSTHORPE, SHIRE OF",PHILLIPS RIVER M.F.,Youanmi Terrane
+Golden Orb,Openpit,Operating,Marda / Southern Cross,119.182297,-30.285641,Au Ag,Precious metal,GOLD,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Beta Hunt Surface Gold,Openpit,Operating,Kambalda - St Ives,121.696799,-31.246434,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Starlight Underground,Decline,Operating,Fortnum,118.358498,-25.321899,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Bryah Basin
+Regal - Boorara,Openpit,Operating,Boorara / Horizon,121.638346,-30.799029,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Milky Way,Openpit,Operating,Mt Magnet,117.788887,-28.053322,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",MT. MAGNET,Youanmi Terrane
+Greenbushes TSF1,Tailings storage facility,Operating,Greenbushes Lithium,116.060204,-33.877041,Ta Li Sn,Speciality metal,TIN - TANTALUM - LITHIUM,"BRIDGETOWN-GREENBUSHES, SHIRE OF",GREENBUSHES M.F.,South West Terrane
+Pegasus - Kundana East,Decline,Operating,Kundana East,121.256852,-30.737972,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Marillana Creek Western Mesa 1,Openpit,Operating,Marillana Creek - Yandi / BHPB,119.000198,-22.715599,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Thunderbox Zone C,Openpit,Operating,Thunderbox Gold,121.007181,-28.190531,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",LAWLERS,Eastern Goldfields Superterrane
+Bakers Flat - Tarranto,Openpit,Operating,South Kalgoorlie Operations,121.268705,-30.969423,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Fender,Openpit,Operating,Cue Gold - Central Murchison,117.635399,-27.3442,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",CUE,Youanmi Terrane
+Amity,Decline,Operating,Golden Grove,116.964949,-28.776882,Cu Au Zn Ag Pb,Base metal,COPPER - LEAD - ZINC,"YALGOO, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Catalpa,Decline,Operating,Golden Grove,116.959301,-28.767751,Cu Au Zn Pb Ag,Base metal,COPPER - LEAD - ZINC,"YALGOO, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Kailis,Openpit,Operating,Kailis,121.288398,-28.840312,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",MT. MALCOLM,Yilgarn Craton granites
+Cosmos Deeps,Decline,Under Development,Cosmos,120.575875,-27.596973,Ni Cu Co Pt Pd,Steel alloy metal,NICKEL,"LEONORA, SHIRE OF",LAWLERS,Yilgarn Craton
+Mt Jackson J1 West (Stages 1-5),Openpit,Operating,Koolyanobbing Iron,119.163267,-30.222323,Fe,Iron,IRON ORE,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Windarling W1 East,Openpit,Operating,Koolyanobbing Iron,119.26669,-30.011967,Fe,Iron,IRON ORE,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Windarling W3,Openpit,Operating,Koolyanobbing Iron,119.289272,-30.012375,Fe,Iron,IRON ORE,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Waroonga Underground,Decline,Operating,Agnew - Emu,120.505798,-28.004499,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",LAWLERS,Yilgarn Craton
+Paraburdoo 4 West,Openpit,Operating,Paraburdoo / Rio Tinto,117.579201,-23.22827,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Paraburdoo 32 East,Openpit,Operating,Paraburdoo / Rio Tinto,117.682198,-23.253071,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Paraburdoo 39 East,Openpit,Operating,Paraburdoo / Rio Tinto,117.7052,-23.25864,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Paraburdoo 37 East,Openpit,Operating,Paraburdoo / Rio Tinto,117.694,-23.26259,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Paraburdoo 42 East,Openpit,Operating,Paraburdoo / Rio Tinto,117.7071,-23.26511,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Tom Price Section 6 Pit,Openpit,Operating,Tom Price / Rio Tinto,117.755603,-22.773079,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Tom Price Section 7 East 2,Openpit,Operating,Tom Price / Rio Tinto,117.725098,-22.7684,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Paraburdoo 4 East (Main Pit),Openpit,Operating,Paraburdoo / Rio Tinto,117.601402,-23.235149,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Nammuldi Lens B,Openpit,Operating,Brockman 2 - Nammuldi - Silvergrass - Homestead / Rio Tinto,117.330399,-22.425831,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Nammuldi Lens D,Openpit,Operating,Brockman 2 - Nammuldi - Silvergrass - Homestead / Rio Tinto,117.354897,-22.410431,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Delta - Roy Hill,Openpit,Operating,Roy Hill Iron Ore,119.972073,-22.470768,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Hamersley Basin
+Deep South - South Laverton Pit,Openpit,Operating,Deep South - Safari Bore,122.54842,-29.546148,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Barton Main - Westside,Decline,Operating,Jundee - Nimary,120.604103,-26.372549,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Eastern Goldfields Superterrane
+Bald Hill Central (South),Openpit,Operating,Bald Hill,122.177932,-31.52314,Li Ta,Speciality metal,TIN - TANTALUM - LITHIUM,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Williamson Pit,Openpit,Operating,Matilda,120.317987,-26.773502,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Eastern Goldfields Superterrane
+Shannon,Openpit,Operating,Mt Magnet,117.78341,-28.060205,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",MT. MAGNET,Youanmi Terrane
+Rowdies,Openpit,Operating,Halls Creek - Lamboo Gold,127.353958,-18.419041,Au Ag,Precious metal,GOLD,"HALLS CREEK, SHIRE OF",KIMBERLEY M.F.,Sally Downs Supersuite
+Plutonic East,Decline,Operating,Plutonic Gold,119.446404,-25.306709,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Eastern Goldfields Superterrane
+Tarmoola North,Openpit,Operating,Tarmoola - King of the Hills,121.166066,-28.663856,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",MT. MALCOLM,Eastern Goldfields Superterrane
+Greenfinch - Westonia,Openpit,Operating,Edna May - Westonia,118.689849,-31.288291,Au Ag,Precious metal,GOLD,"WESTONIA, SHIRE OF",YILGARN M.F.,Yilgarn Craton granites
+Raleigh Underground,Decline,Operating,Kundana East,121.243599,-30.72757,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",KUNANALLING,Eastern Goldfields Superterrane
+Chris D,Openpit,Operating,Woodie Woodie (Mining Corridor) / ConsMin,121.247293,-21.603578,Mn,Steel alloy metal,MANGANESE ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Carawine Sub-basin
+Invicta - Deakin,Decline,Operating,Jundee - Nimary,120.5886,-26.3615,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Eastern Goldfields Superterrane
+Savannah Decline Portal,Decline,Operating,Savannah Nickel,128.027695,-17.3526,Ni Cu Co,Steel alloy metal,NICKEL,"HALLS CREEK, SHIRE OF",KIMBERLEY M.F.,"Lamboo Province, Central Zone"
+City of Chester Main,Openpit,Operating,Cue Gold - Central Murchison,117.7938,-27.335859,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",CUE,Youanmi Terrane
+West Angelas Deposit A - West Pit North,Openpit,Operating,West Angelas,118.750099,-23.176769,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Homestead - Mt Pleasant,Openpit,Operating,Paddington - Mt Pleasant,121.230797,-30.541241,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BROAD ARROW M.F.,Eastern Goldfields Superterrane
+Tropicana,Openpit,Operating,Tropicana,124.553902,-29.24608,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",MT. MORGANS,Tropicana Zone
+Hougoumont,Decline,Operating,Golden Grove,116.963017,-28.774319,Zn Cu Pb Ag Au,Base metal,COPPER - LEAD - ZINC,"YALGOO, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Ethel,Decline,Operating,Golden Grove,116.960083,-28.769453,Zn Au Cu Pb Ag,Base metal,COPPER - LEAD - ZINC,"YALGOO, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Xantho,Decline,Operating,Golden Grove,116.95315,-28.775338,Zn Au,Base metal,COPPER - LEAD - ZINC,"YALGOO, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+West Angelas Deposit A - Centre Pit North,Openpit,Operating,West Angelas,118.784599,-23.18494,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Junction Central - Hairpin,Openpit,Operating,Yandicoogina / HI-Yandi,119.235001,-22.755171,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Junction Central - Water Stand,Openpit,Operating,Yandicoogina / HI-Yandi,119.239206,-22.781833,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Junction Southeast (JSE),Openpit,Operating,Yandicoogina / HI-Yandi,119.260803,-22.795231,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Wallaby Underground,Decline,Operating,Granny Smith,122.305117,-28.852143,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Yilgarn Craton granites
+Anchor North,Openpit,Operating,Duketon / Regis Resources,122.348159,-27.665145,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Burtville Terrane
+Tom Price North West,Openpit,Operating,Tom Price / Rio Tinto,117.740196,-22.74366,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Tom Price Southern Ridge,Openpit,Operating,Tom Price / Rio Tinto,117.752701,-22.761169,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Tom Price Synclines,Openpit,Operating,Tom Price / Rio Tinto,117.762497,-22.76313,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Tom Price South East Prong,Openpit,Operating,Tom Price / Rio Tinto,117.784433,-22.775931,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Marandoo Centre Pit,Openpit,Operating,Marandoo / Rio Tinto,118.139999,-22.64666,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Marandoo South West Extension Pit,Openpit,Operating,Marandoo / Rio Tinto,118.118154,-22.640029,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Marandoo Tail Pit,Openpit,Operating,Marandoo / Rio Tinto,118.152199,-22.651699,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+MAC - Deposit C East Pit,Openpit,Operating,Mining Area C,118.986854,-22.929374,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Koolyanobbing F3,Openpit,Operating,Koolyanobbing Iron,119.613147,-30.876473,Fe,Iron,IRON ORE,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Koolyanobbing F2,Openpit,Operating,Koolyanobbing Iron,119.607697,-30.872431,Fe,Iron,IRON ORE,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Karara - Blue Hills Magnetite,Openpit,Operating,Karara - Blue Hills / Gindalbie,116.774427,-29.187544,Fe Mag,Iron,IRON ORE,"PERENJORI, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Battler,Openpit,Operating,Battler / IMD,119.389597,-31.34636,Au Ag,Precious metal,GOLD,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Koolan Main,Openpit,Operating,Koolan Island,123.738098,-16.13303,Fe,Iron,IRON ORE,"DERBY/WEST KIMBERLEY, SHIRE OF",WEST KIMBERLEY M.F.,Kimberley Basin
+Trident - Higginsville,Decline,Operating,Higginsville,121.7313,-31.72505,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Murrin South (PAS Production),Openpit,Operating,Murrin Murrin / Minara,121.783997,-28.95483,Ni Co,Steel alloy metal,NICKEL,"LEONORA, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Channar Southern Detritals,Openpit,Operating,Channar,117.846121,-23.318363,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Eyre,Openpit,Operating,East Pilbara Iron Ore / FMG,119.849593,-22.379427,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Hamersley Basin
+Flying Fox New Boxcut / Western Areas,Decline,Operating,Forrestania Nickel / Western Areas,119.695596,-32.421177,Ni,Steel alloy metal,NICKEL,"KONDININ, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Wheelarra 3 East,Openpit,Operating,Jimblebar-Wheelarra-Hashimoto / BHPB,120.115303,-23.373011,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+Marillana Creek Western Mesa 4,Openpit,Operating,Marillana Creek - Yandi / BHPB,119.023697,-22.732599,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Marillana Creek Western Mesa 5,Openpit,Under Development,Marillana Creek - Yandi / BHPB,119.048599,-22.7293,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Marillana Creek Eastern Mesa 1,Openpit,Operating,Marillana Creek - Yandi / BHPB,119.098701,-22.73716,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Marillana Creek Eastern Mesa 3,Openpit,Operating,Marillana Creek - Yandi / BHPB,119.126404,-22.75844,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Marillana Creek Eastern Mesa 5,Openpit,Operating,Marillana Creek - Yandi / BHPB,119.134499,-22.76412,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Marillana Creek Eastern Mesa 6,Openpit,Operating,Marillana Creek - Yandi / BHPB,119.138397,-22.768881,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Mt Marion North Pit 2,Openpit,Operating,Mt Marion Lithium,121.461148,-31.070905,Li Li2O Ta Mica,Speciality metal,TIN - TANTALUM - LITHIUM,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Golden Age Underground,Decline,Operating,Matilda,120.246696,-26.620331,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Eastern Goldfields Superterrane
+Fimiston Superpit,Openpit,Operating,Golden Mile / KCGM,121.50352,-30.777971,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Paraburdoo 24 East,Openpit,Operating,Paraburdoo / Rio Tinto,117.652603,-23.256321,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Marvel Loch Underground,Decline,Operating,Marvel Loch - Southern Cross,119.492599,-31.464569,Au Ag,Precious metal,GOLD,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Scotia Central,Openpit,Operating,Central Norseman,121.791496,-32.47422,Au,Precious metal,GOLD,"DUNDAS, SHIRE OF",DUNDAS M.F.,"Northern Foreland, Albany-Fraser Orogen"
+Joyners Find - JWD,Openpit,Operating,Wiluna West Iron,119.954639,-26.791821,Fe,Iron,IRON ORE,"WILUNA, SHIRE OF",WILUNA,Youanmi Terrane
+Rose Dam South,Openpit,Operating,Rose Dam,121.27655,-30.520962,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BROAD ARROW M.F.,Eastern Goldfields Superterrane
+Cassini,Decline,Operating,Widgiemooltha Nickel / Mincor,121.621101,-31.700939,Ni Cu Co,Steel alloy metal,NICKEL,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Phils Creek - Three Sisters CID,Openpit,Operating,Phils Creek / PMI,119.187809,-22.737048,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+T5 - Flying Fox Underground,Decline,Operating,Forrestania Nickel / Western Areas,119.689003,-32.417782,Ni Cu Co,Steel alloy metal,NICKEL,"KONDININ, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Brockman 4 - Pit 3 East,Openpit,Operating,Brockman 4 Area / Rio Tinto,117.229616,-22.596942,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Brockman 4 - Pit 2 Interim,Openpit,Operating,Brockman 4 Area / Rio Tinto,117.178072,-22.609483,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Brockman 2 - Pit 7 (Detritals),Openpit,Operating,Brockman 2 - Nammuldi - Silvergrass - Homestead / Rio Tinto,117.369301,-22.441111,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Split Rock,Openpit,Operating,Sanjiv Ridge,119.666135,-21.47369,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Gorge Creek Basin
+Dogbolter North and South,Openpit,Operating,Duketon / Regis Resources,122.342667,-27.724042,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Burtville Terrane
+Vause Laterite,Openpit,Operating,Jundee - Nimary,120.816002,-26.61158,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Eastern Goldfields Superterrane
+Cardo Bore East,Openpit,Under Development,West Pilbara - Red Hill / API,116.22877,-22.193978,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",ASHBURTON M.F.,Ashburton Basin
+Aquarius - Higginsville,Decline,Under Development,Higginsville,121.728206,-31.755167,Au,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+C4 - Wiluna West,Openpit,Operating,Wiluna West Iron,119.937302,-26.680361,Fe,Iron,IRON ORE,"WILUNA, SHIRE OF",WILUNA,Youanmi Terrane
+Havana,Openpit,Operating,Tropicana,124.5401,-29.263359,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",MT. MORGANS,Tropicana Zone
+Paulsens East Main Pit,Openpit,Operating,Paulsens East Iron,116.336959,-22.562845,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Ashburton Basin
+North Marra Mamba East Pits 1-4,Openpit,Under Development,Wonmunna Iron,119.074177,-23.127015,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,South Pilbara Sub-basin
+Cardo Bore North West,Openpit,Under Development,West Pilbara - Red Hill / API,116.213501,-22.148736,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",ASHBURTON M.F.,Turee Creek Basin
+Kens Bore,Openpit,Under Development,West Pilbara - Red Hill / API,116.195794,-22.055688,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",ASHBURTON M.F.,Turee Creek Basin
+Wagtail North,Decline,Operating,Halls Creek - Lamboo Gold,127.353798,-18.421173,Au Ag,Precious metal,GOLD,"HALLS CREEK, SHIRE OF",KIMBERLEY M.F.,Sally Downs Supersuite
+Julius - Yandal,Openpit,Operating,Jundee - Nimary,120.948631,-26.763126,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Eastern Goldfields Superterrane
+Kangaroo - Main Break - Cloudbreak,Openpit,Operating,East Pilbara Iron Ore / FMG,119.260399,-22.285521,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",MARBLE BAR,Hamersley Basin
+Iron Ridge,Openpit,Operating,Iron Ridge,117.684502,-26.943939,Fe TiO2 Mn,Iron,IRON ORE,"CUE, SHIRE OF",CUE,Youanmi Terrane
+Wandoo North,Openpit,Operating,Boddington Gold,116.3419,-32.741345,Au Cu As Bi,Precious metal,GOLD,"BODDINGTON, SHIRE OF",SOUTH WEST M.F.,South West Terrane
+Frogs Leg Underground,Decline,Operating,Mungari / Evolution,121.270103,-30.76158,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Cochrane,Openpit,Under Development,West Pilbara - Red Hill / API,116.132459,-21.921578,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",ASHBURTON M.F.,Ashburton Basin
+Jewel CID,Openpit,Under Development,West Pilbara - Red Hill / API,116.138186,-21.935159,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",ASHBURTON M.F.,Ashburton Basin
+Eliwana West End,Openpit,Operating,Western Hub / FMG,116.830554,-22.493687,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Mungada East Extension,Openpit,Operating,Koolanooka & Blue Hills - Mungada / Sinosteel,116.888651,-29.140225,Fe,Iron,IRON ORE,"PERENJORI, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Lounge Lizard Nickel Underground,Decline,Operating,Forrestania Nickel / Western Areas,119.69219,-32.425579,Ni,Steel alloy metal,NICKEL,"KONDININ, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Catho Well North Pits,Openpit,Under Development,West Pilbara - Red Hill / API,116.24486,-22.380591,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",ASHBURTON M.F.,Ashburton Basin
+Trinity Bore Iron,Openpit,Under Development,West Pilbara - Red Hill / API,116.336662,-22.354352,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Ashburton Basin
+Kings-Solomon,Openpit,Operating,Solomon - Greater Solomon,117.869826,-22.159468,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Mt Caudan Central Open Pit,Openpit,Operating,Parker Range - Mt Caudan Iron,119.555621,-31.614569,Fe,Iron,IRON ORE,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Firetail North,Openpit,Operating,Solomon - Greater Solomon,117.925752,-22.117679,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Monster,Openpit,Operating,Pilgangoora / Pilbara Minerals,118.915202,-21.020961,Li Ta Sn,Speciality metal,TIN - TANTALUM - LITHIUM,"EAST PILBARA, SHIRE OF",MARBLE BAR,Kelly Large Igneous Province
+Rosemont North,Openpit,Operating,Duketon / Regis Resources,122.268224,-27.831212,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Eastern Goldfields Superterrane
+Kens Bore East,Openpit,Under Development,West Pilbara - Red Hill / API,116.221882,-22.076233,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",ASHBURTON M.F.,Turee Creek Basin
+South Victory North 2,Openpit,Operating,Cue Gold - Central Murchison,117.801533,-27.403089,Au,Precious metal,GOLD,"CUE, SHIRE OF",CUE,Youanmi Terrane
+Marandoo MMP2 Pit,Openpit,Operating,Marandoo / Rio Tinto,118.167892,-22.649534,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Coondiner HD4 Central,Openpit,Operating,Hope Downs Joint Venture,119.53912,-23.133013,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Coondiner HD4 South,Openpit,Operating,Hope Downs Joint Venture,119.519623,-23.146805,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Coondiner HD4 West,Openpit,Operating,Hope Downs Joint Venture,119.504036,-23.136219,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Petra,Openpit,Operating,Duketon / Regis Resources,122.257176,-27.686151,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Burtville Terrane
+Fort Scott,Openpit,Operating,Binduli,121.378412,-30.781147,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Fender - Mt Webber,Openpit,Operating,Mt Webber ,119.29855,-21.543976,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Sulphur Springs Large Igneous Province
+Rubicon-Hornet Underground Portal,Decline,Operating,Kundana East,121.260602,-30.744035,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Bentley,Decline,Operating,Teutonic Bore - Jaguar,121.169987,-28.483949,Zn Cu Ag Au Pb,Base metal,COPPER - LEAD - ZINC,"LEONORA, SHIRE OF",MT. MALCOLM,Eastern Goldfields Superterrane
+Water Tank Hill Underground,Shaft,Operating,Mt Magnet,117.829995,-28.064741,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",MT. MAGNET,Youanmi Terrane
+Cave Rocks Underground,Decline,Operating,Kambalda - St Ives,121.557715,-31.209795,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Sandtrax - Prancer,Openpit,Under Development,Miralga Creek,119.188902,-21.111396,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Gorge Creek Basin
+Central Marra Mamba,Openpit,Operating,Wonmunna Iron,119.003195,-23.14472,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,South Pilbara Sub-basin
+South Marra Mamba East,Openpit,Under Development,Wonmunna Iron,118.991075,-23.164236,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,South Pilbara Sub-basin
+Daltons-Gibson,Openpit,Operating,Mt Webber ,119.308488,-21.530189,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Sulphur Springs Large Igneous Province
+Queens,Openpit,Operating,Solomon - Greater Solomon,117.769485,-22.128667,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Trinity - Solomon,Openpit,Operating,Solomon - Greater Solomon,117.846853,-22.122345,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Hamlet Underground / St Ives,Decline,Operating,Kambalda - St Ives,121.812162,-31.400095,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Conductor 1,Decline,Operating,DeGrussa - Monty,119.325799,-25.540098,Cu Au Ag,Base metal,COPPER - LEAD - ZINC,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Bryah Basin
+Pertha May,Openpit,Operating,Pertha M,118.65181,-31.275179,Au Ag,Precious metal,GOLD,"WESTONIA, SHIRE OF",YILGARN M.F.,South West Terrane
+Firetail South,Openpit,Operating,Solomon - Greater Solomon,117.918,-22.141,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Maingays,Openpit,Operating,Porphyry - Northern Operations,122.281933,-29.783519,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",YERILLA,Yilgarn Craton granites
+Red October Underground,Decline,Operating,Red October,122.413546,-29.217297,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Iron Valley Stage 1,Openpit,Operating,Iron Valley,119.312614,-22.731714,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Conductor 4,Decline,Under Development,DeGrussa - Monty,119.328832,-25.542653,Cu Au Ag,Base metal,COPPER - LEAD - ZINC,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Bryah Basin
+Bibra,Openpit,Operating,Karlawinda Gold,120.095889,-23.765145,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Collier Basin
+Garden Well,Openpit,Operating,Duketon / Regis Resources,122.356001,-27.906395,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Burtville Terrane
+Spotted Quoll Main and North Underground,Decline,Operating,Forrestania Nickel / Western Areas,119.677774,-32.478151,Ni Co,Steel alloy metal,NICKEL,"KONDININ, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Flinders - Christmas Creek,Openpit,Operating,East Pilbara Iron Ore / FMG,119.720226,-22.37121,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Hamersley Basin
+Mokare - Christmas Creek,Openpit,Operating,East Pilbara Iron Ore / FMG,119.76394,-22.363306,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Hamersley Basin
+Mt Newman Orebody 18 East - Shovelanna Hill,Openpit,Operating,Newman / BHPB,120.057303,-23.320586,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+Mt Newman Orebody 25 - Pit 4,Openpit,Operating,Newman / BHPB,119.784358,-23.332051,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+Navajo-Chief,Openpit,Operating,Binduli,121.39119,-30.823813,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Bentley Boxcut,Decline,Operating,Teutonic Bore - Jaguar,121.158546,-28.478071,Zn Cu Ag Pb,Base metal,COPPER - LEAD - ZINC,"LEONORA, SHIRE OF",MT. MALCOLM,Eastern Goldfields Superterrane
+Deception / Cliffs,Openpit,Operating,Koolyanobbing Iron,119.280916,-29.850399,Fe Hem,Iron,IRON ORE,"MENZIES, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Moonlight 58,Openpit,Operating,Kanowna - Golden Valley,121.608591,-30.582426,Au,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",KANOWNA,Eastern Goldfields Superterrane
+North Star magnetite (Stage 2),Openpit,Under Development,Iron Bridge,119.053588,-21.250187,Fe Mag,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Sulphur Springs Large Igneous Province
+Conductor 5,Decline,Under Development,DeGrussa - Monty,119.334778,-25.54084,Cu Au Ag,Base metal,COPPER - LEAD - ZINC,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Bryah Basin
+Tooheys Well,Openpit,Operating,Duketon / Regis Resources,122.368122,-27.939959,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Burtville Terrane
+Fender 700,Openpit,Operating,Cue Gold - Central Murchison,117.639568,-27.34181,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",CUE,Youanmi Terrane
+Moolart Well - Central Laterite,Openpit,Operating,Duketon / Regis Resources,122.346292,-27.602195,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Burtville Terrane
+Gateway Portal,Decline,Operating,Jundee - Nimary,120.589064,-26.381404,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Eastern Goldfields Superterrane
+Gateway Underground,Decline,Operating,Jundee - Nimary,120.593467,-26.385807,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Eastern Goldfields Superterrane
+Yanneri Ridge East,Openpit,Operating,Butcherbird - Yanneri Ridge,119.705458,-24.408907,Mn MnOre,Steel alloy metal,MANGANESE ORE,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Collier Basin
+The Claw,Openpit,Operating,Koolyanobbing Iron,119.26769,-29.857519,Fe,Iron,IRON ORE,"MENZIES, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Wheelarra 3 West,Openpit,Operating,Jimblebar-Wheelarra-Hashimoto / BHPB,120.106096,-23.373013,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",PEAK HILL M.F.,Hamersley Basin
+DeGrussa Underground,Decline,Operating,DeGrussa - Monty,119.328128,-25.54063,Cu Au Ag Zn Pd,Base metal,COPPER - LEAD - ZINC,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Bryah Basin
+Cocos - Cloud Break,Openpit,Operating,East Pilbara Iron Ore / FMG,119.501622,-22.343763,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Hamersley Basin
+Long - Cloud Break,Openpit,Operating,East Pilbara Iron Ore / FMG,119.462954,-22.343211,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Hamersley Basin
+Baudin,Openpit,Operating,East Pilbara Iron Ore / FMG,119.862692,-22.380857,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Hamersley Basin
+Monty Underground,Decline,Operating,DeGrussa - Monty,119.429936,-25.550321,Cu Au Ag,Base metal,COPPER - LEAD - ZINC,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Bryah Basin
+Jims Find,Openpit,Operating,Cue Gold - Central Murchison,117.804395,-27.330649,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",CUE,Youanmi Terrane
+Lord Byron Northwest,Openpit,Operating,Jasper Hills ,123.041614,-29.128452,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",MT. MORGANS,Burtville Terrane
+Cue Victory Battery Sands,Tailings storage facility,Operating,Cue Victory / Cue Consolidated,117.911778,-27.410786,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",CUE,Youanmi Terrane
+Fatts,Decline,Under Development,Cue Gold - Central Murchison,118.506607,-26.610688,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",MEEKATHARRA,Youanmi Terrane
+Havana South,Openpit,Operating,Tropicana,124.53612,-29.271361,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",MT. MORGANS,Tropicana Zone
+Cammi's Creek,Openpit,Operating,Jaurdi - Cammi's Creek,120.939387,-30.730699,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",KUNANALLING,Yilgarn Craton granites
+Nova - Bollinger Underground,Decline,Operating,Nova-Bollinger,123.192413,-31.819886,Ni Cu Co,Steel alloy metal,NICKEL,"DUNDAS, SHIRE OF",KURNALPI,Fraser Zone
+Odysseus South,Decline,Under Development,Cosmos,120.575875,-27.596973,Ni Cu Co Pt Pd,Steel alloy metal,NICKEL,"LEONORA, SHIRE OF",LAWLERS,Yilgarn Craton
+Odysseus North,Decline,Under Development,Cosmos,120.575875,-27.596973,Ni Cu Co Pt Pd,Steel alloy metal,NICKEL,"LEONORA, SHIRE OF",LAWLERS,Yilgarn Craton
+Long Underground,Decline,Operating,Kambalda / Mincor,121.683531,-31.18112,Ni Cu,Steel alloy metal,NICKEL,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Telfer West Dome Main,Openpit,Operating,Telfer / Newcrest,122.185071,-21.720134,Au,Precious metal,GOLD,"EAST PILBARA, SHIRE OF",MARBLE BAR,Yeneena Basin
+Enterprise West - Paddington,Openpit,Operating,Ora Banda / Norton,121.079836,-30.374883,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BROAD ARROW M.F.,Eastern Goldfields Superterrane
+Bollinger - Fraser Range Underground,Decline,Operating,Nova-Bollinger,123.194386,-31.819888,Ni Cu Co,Steel alloy metal,NICKEL,"DUNDAS, SHIRE OF",KURNALPI,Fraser Zone
+Young,Openpit,Operating,East Pilbara Iron Ore / FMG,119.803081,-22.39782,Fe Mn,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Hamersley Basin
+Venus - Leinster,Decline,Operating,Leinster,120.705816,-27.813744,Ni,Steel alloy metal,NICKEL,"LEONORA, SHIRE OF",LAWLERS,Eastern Goldfields Superterrane
+Hope Downs 1 North West,Openpit,Operating,Hope Downs Joint Venture,119.099793,-22.951863,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Hope Downs 1 North East 3,Openpit,Operating,Hope Downs Joint Venture,119.137386,-22.953708,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+West Angelas Deposit A - Centre Pit South,Openpit,Operating,West Angelas,118.775693,-23.190224,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Tom Price Section 6 South,Openpit,Operating,Tom Price / Rio Tinto,117.744875,-22.78018,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Tom Price Section 7 Central 2,Openpit,Operating,Tom Price / Rio Tinto,117.718501,-22.767716,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Marandoo Tail Extension Pit,Openpit,Operating,Marandoo / Rio Tinto,118.172912,-22.661082,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Miralga East-Comet Pit,Openpit,Operating,Miralga Creek,119.424783,-20.972158,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Gorge Creek Basin
+Brockman 4 - Pit 3 West,Openpit,Operating,Brockman 4 Area / Rio Tinto,117.200339,-22.600088,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Brockman 4 - Pit 2 Final,Openpit,Operating,Brockman 4 Area / Rio Tinto,117.168049,-22.61351,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Vespa,Openpit,Operating,Woodie Woodie (Mining Corridor) / ConsMin,121.246725,-21.659567,Mn,Steel alloy metal,MANGANESE ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Carawine Sub-basin
+Topvar,Openpit,Operating,Woodie Woodie (Mining Corridor) / ConsMin,121.232365,-21.601489,Mn,Steel alloy metal,MANGANESE ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Wells Sub-basin
+Iron Valley Stage 2 / Pit N,Openpit,Operating,Iron Valley,119.31734,-22.719705,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Neptune / St Ives,Openpit,Operating,Kambalda - St Ives,121.74552,-31.300017,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Gruyere,Openpit,Operating,Yamarna - Gruyere JV,123.845213,-27.98443,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Yamarna Terrane
+Crown Jewel - Boorara,Openpit,Operating,Boorara / Horizon,121.641914,-30.80386,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Runway North,Openpit,Operating,Sanjiv Ridge,119.679253,-21.420504,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Gorge Creek Basin
+Shark Gully / Atlas,Openpit,Operating,Sanjiv Ridge,119.669611,-21.450806,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Gorge Creek Basin
+Murrin East (PAE Production),Openpit,Operating,Murrin Murrin / Minara,122.176121,-29.073484,Ni Co,Steel alloy metal,NICKEL,"LEONORA, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Bald Hill Central Pit,Openpit,Operating,Bald Hill,122.176351,-31.51935,Li Ta,Speciality metal,TIN - TANTALUM - LITHIUM,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Invincible - St Ives,Openpit,Operating,Kambalda - St Ives,121.670718,-31.279914,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Vivien Underground,Decline,Operating,Vivien,120.568526,-27.976825,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",LAWLERS,Eastern Goldfields Superterrane
+Turner Syncline B1 Satellite,Openpit,Operating,Turner Syncline West,117.472463,-22.67876,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Salisbury,Openpit,Operating,Cue Victory / Cue Consolidated,117.902972,-27.396782,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",CUE,Youanmi Terrane
+Savannah North,Decline,Operating,Savannah Nickel,128.017007,-17.338411,Ni Cu Co,Steel alloy metal,NICKEL,"HALLS CREEK, SHIRE OF",KIMBERLEY M.F.,"Lamboo Province, Central Zone"
+Karari Underground Main and Exploration Declines,Decline,Operating,Carosue Dam - Khartoum,122.359234,-30.159173,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",KURNALPI,Eastern Goldfields Superterrane
+Nova-Bollinger Boxcut,Decline,Operating,Nova-Bollinger,123.174503,-31.812592,Ni Cu Co,Steel alloy metal,NICKEL,"DUNDAS, SHIRE OF",KURNALPI,Fraser Zone
+Heffernans Syenite,Openpit,Operating,Mt Morgans,122.218123,-28.816154,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Nicolsons Find Underground,Decline,Operating,Halls Creek - Lamboo Gold,127.356959,-18.409426,Au Ag,Precious metal,GOLD,"HALLS CREEK, SHIRE OF",KIMBERLEY M.F.,"Lamboo Province, Central Zone"
+North Marra Mamba West,Openpit,Operating,Wonmunna Iron,119.048777,-23.122646,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,South Pilbara Sub-basin
+Millennium,Decline,Operating,Kundana - White Flag,121.237813,-30.707879,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",KUNANALLING,Eastern Goldfields Superterrane
+Baloo,Openpit,Operating,Polar Bear Gold,121.866932,-31.801927,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Whirling Dervish Underground,Decline,Operating,Carosue Dam - Khartoum,122.357732,-30.141997,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",YERILLA,Eastern Goldfields Superterrane
+Deep South - South Laverton Underground,Decline,Operating,Deep South - Safari Bore,122.548563,-29.54581,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Koolyanobbing F1,Openpit,Operating,Koolyanobbing Iron,119.604352,-30.869792,Fe,Iron,IRON ORE,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Corinthia Decline / Corinthian,Decline,Operating,Corinthia / Corinthian Mining,119.219675,-31.12141,Au Ag,Precious metal,GOLD,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Gilbeys South,Openpit,Operating,Dalgaranga - Gilbeys,117.25727,-27.852407,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Red Hill Creek West,Openpit,Under Development,West Pilbara - Red Hill / API,116.292816,-22.077104,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",ASHBURTON M.F.,Hamersley Basin
+Windarling W7 New,Openpit,Operating,Koolyanobbing Iron,119.245668,-30.006664,Fe,Iron,IRON ORE,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Bravo - Roy Hill,Openpit,Operating,Roy Hill Iron Ore,119.925829,-22.470314,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Hamersley Basin
+Zulu - Roy Hill,Openpit,Operating,Roy Hill Iron Ore,119.896004,-22.443007,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Hamersley Basin
+Coopers,Openpit,Operating,Duketon / Regis Resources,122.340468,-27.712101,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Burtville Terrane
+Baby Hope Central,Openpit,Operating,Hope Downs Joint Venture,119.058934,-23.016613,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Baby Hope East,Openpit,Operating,Hope Downs Joint Venture,119.087417,-23.013262,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Baby Hope West,Openpit,Operating,Hope Downs Joint Venture,119.039133,-23.017222,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Central - Far East,Openpit,Operating,Pilgangoora / Pilbara Minerals,118.90523,-21.05635,Li Ta,Speciality metal,TIN - TANTALUM - LITHIUM,"EAST PILBARA, SHIRE OF",MARBLE BAR,Kelly Large Igneous Province
+Tuart Underground Mine,Decline,Operating,Paddington - Mt Pleasant,121.224418,-30.527591,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BROAD ARROW M.F.,Eastern Goldfields Superterrane
+Gloster,Openpit,Operating,Duketon / Regis Resources,122.074906,-27.564545,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Eastern Goldfields Superterrane
+King of the Hills,Openpit,Operating,Tarmoola - King of the Hills,121.165902,-28.663594,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",MT. MALCOLM,Eastern Goldfields Superterrane
+Plutonic Underground,Decline,Operating,Plutonic Gold,119.446427,-25.318215,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Eastern Goldfields Superterrane
+Windarling W10,Openpit,Operating,Koolyanobbing Iron,119.259221,-30.011667,Fe,Iron,IRON ORE,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Tampia North,Openpit,Operating,Tampia,118.451651,-32.161676,Au Ag,Precious metal,GOLD,"NAREMBEEN, SHIRE OF",SOUTH WEST M.F.,Yilgarn Craton granites
+Echo - Roy Hill,Openpit,Operating,Roy Hill Iron Ore,119.959538,-22.494661,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Hamersley Basin
+Golf - Roy Hill,Openpit,Operating,Roy Hill Iron Ore,119.984053,-22.517949,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Hamersley Basin
+Erlistoun,Openpit,Operating,Duketon / Regis Resources,122.338032,-27.972801,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Burtville Terrane
+Earl Grey Lithium Mine Pit,Openpit,Operating,Mt Holland Lithium / Wesfarmers & SQM,119.747955,-32.092642,Li,Speciality metal,TIN - TANTALUM - LITHIUM,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Delta Island South,Openpit,Operating,Kambalda - St Ives,121.722933,-31.293577,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Geko,Openpit,Operating,Bullabulling North,120.901846,-30.862375,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Beta Hunt Underground Gold,Decline,Operating,Kambalda Gold / RNC,121.689942,-31.242538,Au Ag Ni,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Pilgangoora (C1 E1 N1 S1),Openpit,Operating,Altura Lithium Project / Pilgangoora ,118.90166,-21.072835,Li Ta,Speciality metal,TIN - TANTALUM - LITHIUM,"EAST PILBARA, SHIRE OF",MARBLE BAR,Soanesville Basin
+Ganymede,Openpit,Operating,Mt Morgans,122.215226,-28.819435,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Invincible North,Openpit,Under Development,Kambalda - St Ives,121.662842,-31.27261,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Yilgarn Craton
+Invincible Underground,Decline,Operating,Kambalda - St Ives,121.673399,-31.283042,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Deflector Underground,Decline,Operating,Deflector,116.379441,-28.668992,Au Cu Ag,Precious metal,GOLD,"YALGOO, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Coventry,Openpit,Operating,Cue Gold - Central Murchison,117.801546,-27.33786,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",CUE,Youanmi Terrane
+Cloudbreak - Abrolhos,Openpit,Operating,East Pilbara Iron Ore / FMG,119.323753,-22.268512,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",MARBLE BAR,Hamersley Basin
+Porphyry West 1,Openpit,Operating,Paddington - Mt Pleasant,121.017796,-30.491992,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",KUNANALLING,Eastern Goldfields Superterrane
+Eliwana Westside,Openpit,Operating,Western Hub / FMG,116.868871,-22.492958,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Grants Hill,Openpit,Operating,Beatons Creek JV,120.095102,-21.87955,Au Ag,Precious metal,GOLD,"EAST PILBARA, SHIRE OF",NULLAGINE,Northeast Pilbara Sub-basin
+Lost Dog,Openpit,Operating,Jaurdi - Cammi's Creek,120.949716,-30.730951,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",KUNANALLING,Yilgarn Craton granites
+Runway South,Openpit,Operating,Sanjiv Ridge,119.679793,-21.423504,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Gorge Creek Basin
+Sly Fox,Openpit,Operating,Dalgaranga - Gilbeys,117.264955,-27.85419,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+MAC - Deposit F West,Openpit,Operating,Mining Area C,118.847639,-22.941503,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+MAC - Deposit E West Pit,Openpit,Operating,Mining Area C,118.875894,-22.933634,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Sierra - Roy Hill,Openpit,Operating,Roy Hill Iron Ore,120.01152,-22.557215,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Hamersley Basin
+Thunderbox Underground,Decline,Operating,Thunderbox Gold,121.007285,-28.196004,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",LAWLERS,Eastern Goldfields Superterrane
+Frederick West,Openpit,Under Development,Solomon - Greater Solomon,117.87746,-22.227412,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Frederick East,Openpit,Under Development,Solomon - Greater Solomon,117.894904,-22.227627,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",WEST PILBARA M.F.,Hamersley Basin
+Mt Marion North Pit 6,Openpit,Operating,Mt Marion Lithium,121.460075,-31.077409,Li Ta Mica Spd,Speciality metal,TIN - TANTALUM - LITHIUM,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Wagtail North Underground,Decline,Operating,Halls Creek - Lamboo Gold,127.353669,-18.421151,Au Ag,Precious metal,GOLD,"HALLS CREEK, SHIRE OF",KIMBERLEY M.F.,Sally Downs Supersuite
+Wagtail South Underground,Decline,Operating,Halls Creek - Lamboo Gold,127.353562,-18.424727,Au Ag,Precious metal,GOLD,"HALLS CREEK, SHIRE OF",KIMBERLEY M.F.,"Lamboo Province, Central Zone"
+Ramone,Openpit,Operating,Jundee - Nimary,120.846986,-26.559088,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Yilgarn Craton granites
+Karonie Main Zone South,Openpit,Operating,Aldiss - Karonie,122.560074,-31.03926,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",KURNALPI,Eastern Goldfields Superterrane
+Plymouth / Gascoyne,Openpit,Operating,Dalgaranga - Gilbeys,117.263648,-27.854278,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",YALGOO M.F.,Youanmi Terrane
+Main Lode / Barra,Decline,Operating,Burbanks / REG,121.139859,-31.024487,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Havieron Underground,Decline,Under Development,Paterson / Greatland Gold,122.640666,-21.727817,Au Cu Ag,Precious metal,GOLD,"EAST PILBARA, SHIRE OF",MARBLE BAR,Anketell Shelf
+Dowling Stage 2 Northeast,Openpit,Operating,Mt Cattlin Spodumene,120.038952,-33.561622,Li Ta,Speciality metal,TIN - TANTALUM - LITHIUM,"RAVENSTHORPE, SHIRE OF",PHILLIPS RIVER M.F.,Youanmi Terrane
+Anomaly 11 - Woodie Woodie,Openpit,Operating,Woodie Woodie (Mining Corridor) / ConsMin,121.244736,-21.610536,Mn,Steel alloy metal,MANGANESE ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Carawine Sub-basin
+Rosemont Underground,Decline,Operating,Duketon / Regis Resources,122.278097,-27.843181,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Eastern Goldfields Superterrane
+Eridanus,Openpit,Operating,Mt Magnet,117.781675,-28.074885,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",MT. MAGNET,Youanmi Terrane
+Shannon Underground,Decline,Operating,Mt Magnet,117.78326,-28.060424,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",MT. MAGNET,Youanmi Terrane
+Boston Shaker Underground,Decline,Operating,Tropicana,124.563896,-29.242173,Au Ag,Precious metal,GOLD,"MENZIES, SHIRE OF",MT. MORGANS,Tropicana Zone
+Doublejay,Openpit,Operating,Mt Morgans,122.219195,-28.810941,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MORGANS,Eastern Goldfields Superterrane
+Radio Hill Stage 1 (New)  - Woodie Woodie,Openpit,Operating,Woodie Woodie (Mining Corridor) / ConsMin,121.225705,-21.57516,Mn,Steel alloy metal,MANGANESE ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Hamersley Basin
+Myhree / Black Cat,Openpit,Under Development,New Bulong - Boundary - Kal East Gold Project,121.775308,-30.729096,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",BULONG,Eastern Goldfields Superterrane
+Penny North Underground,Decline,Under Development,Penny Gold,118.810248,-28.853327,Au Ag,Precious metal,GOLD,"SANDSTONE, SHIRE OF",BLACK RANGE,Youanmi Terrane
+Thunderbox Zone D,Openpit,Operating,Thunderbox Gold,121.004813,-28.183943,Au Ag,Precious metal,GOLD,"LEONORA, SHIRE OF",LAWLERS,Eastern Goldfields Superterrane
+Dowling Northwest (Stages 2 and 3),Openpit,Under Development,Mt Cattlin Spodumene,120.031468,-33.56199,Li Ta,Speciality metal,TIN - TANTALUM - LITHIUM,"RAVENSTHORPE, SHIRE OF",PHILLIPS RIVER M.F.,Youanmi Terrane
+Bluebird Underground (South Junction),Decline,Operating,Cue Gold - Central Murchison,118.423432,-26.722373,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",MEEKATHARRA,Youanmi Terrane
+Cassini Underground,Decline,Under Development,Widgiemooltha Nickel / Mincor,121.62647,-31.70971,Ni Au,Steel alloy metal,NICKEL,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Perch 1 / Billabong,Openpit,Operating,Plutonic Gold,119.491694,-25.32093,Au Ag,Precious metal,GOLD,"MEEKATHARRA, SHIRE OF",PEAK HILL M.F.,Eastern Goldfields Superterrane
+Mt Caudan South Open Pit,Openpit,Operating,Parker Range - Mt Caudan Iron,119.551693,-31.626094,Fe,Iron,IRON ORE,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Mt Caudan North Open Pit,Openpit,Operating,Parker Range - Mt Caudan Iron,119.557558,-31.607856,Fe,Iron,IRON ORE,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Hidden Secret,Openpit,Operating,Higginsville,121.814893,-31.779801,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Orion,Unspecified,Operating,Mt Magnet,117.789952,-28.071729,Au Ag,Precious metal,GOLD,"MOUNT MAGNET, SHIRE OF",MT. MAGNET,Youanmi Terrane
+Cathedral - Christmas Creek,Openpit,Operating,East Pilbara Iron Ore / FMG,119.830589,-22.407888,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Hamersley Basin
+Adelle - Cloudbreak,Openpit,Operating,East Pilbara Iron Ore / FMG,119.44835,-22.319411,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",NULLAGINE,Northeast Pilbara Sub-basin
+Cockatoo - Cloudbreak,Openpit,Operating,East Pilbara Iron Ore / FMG,119.327125,-22.307419,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",MARBLE BAR,Hamersley Basin
+Norfolk - Cloudbreak,Openpit,Operating,East Pilbara Iron Ore / FMG,119.294325,-22.313983,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",MARBLE BAR,Hamersley Basin
+Victoria,Openpit,Operating,Marvel Loch - Southern Cross,119.416703,-31.345262,Au Ag,Precious metal,GOLD,"YILGARN, SHIRE OF",YILGARN M.F.,Youanmi Terrane
+Green Lantern,Unspecified,Operating,Central Norseman,121.79622,-32.479727,Au Ag,Precious metal,GOLD,"DUNDAS, SHIRE OF",DUNDAS M.F.,"Northern Foreland, Albany-Fraser Orogen"
+Moonbeam Underground,Decline,Under Development,Kundana - White Flag,121.244269,-30.721499,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",KUNANALLING,Eastern Goldfields Superterrane
+Garden Well Underground,Decline,Under Development,Duketon / Regis Resources,122.356602,-27.905699,Au Ag,Precious metal,GOLD,"LAVERTON, SHIRE OF",MT. MARGARET,Burtville Terrane
+Ramone Underground,Decline,Operating,Jundee - Nimary,120.847225,-26.55961,Au Ag,Precious metal,GOLD,"WILUNA, SHIRE OF",WILUNA,Yilgarn Craton granites
+Karen Louise,Openpit,Operating,Binduli,121.374508,-30.773674,Au Ag,Precious metal,GOLD,"KALGOORLIE-BOULDER, CITY OF",EAST COOLGARDIE,Eastern Goldfields Superterrane
+Miralga West - Rudolph,Openpit,Operating,Miralga Creek,119.318785,-21.023512,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Gorge Creek Basin
+Miralga East - Vixen,Openpit,Under Development,Miralga Creek,119.431357,-20.971593,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Gorge Creek Basin
+Miralga East - Dasher,Openpit,Under Development,Miralga Creek,119.436985,-20.972796,Fe,Iron,IRON ORE,"EAST PILBARA, SHIRE OF",MARBLE BAR,Gorge Creek Basin
+Fender Underground,Decline,Operating,Cue Gold - Central Murchison,117.63454,-27.344488,Au Ag,Precious metal,GOLD,"CUE, SHIRE OF",CUE,Youanmi Terrane
+Swagman / Karora,Openpit,Operating,Higginsville,121.723065,-31.741825,Au Ag,Precious metal,GOLD,"COOLGARDIE, SHIRE OF",COOLGARDIE,Eastern Goldfields Superterrane
+Bigge - Cloudbreak,Openpit,Operating,East Pilbara Iron Ore / FMG,119.205929,-22.286159,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",MARBLE BAR,Hamersley Basin
+Norfolk North - Cloudbreak,Openpit,Operating,East Pilbara Iron Ore / FMG,119.318192,-22.289123,Fe,Iron,IRON ORE,"ASHBURTON, SHIRE OF",MARBLE BAR,Hamersley Basin
+System Test Site,Openpit,Operating,System Test Project,127.430253,-26.564876,Au,Precious metal,GOLD,"NGAANYATJARRAKU, SHIRE OF",WARBURTON M.F.,Sherriff Shelf
