@@ -43,6 +43,5 @@ CREATE TABLE volume_mindex_filtered_commodities_df(
 	"TOT_MIN_RES_ALT_CONT_COM_UNIT" VARCHAR(254)
 );
 	
-	
 SELECT *
 FROM volume_mindex_filtered_commodities_df;
