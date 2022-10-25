@@ -7,6 +7,8 @@ import pandas as pd
 import sqlalchemy
 import psycopg2
 
+import config
+
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
@@ -18,7 +20,7 @@ from flask_sqlalchemy import SQLAlchemy
 # Database Setup
 protocol = 'postgresql'
 username = 'postgres'
-password = 'postgres'
+password = config.password
 host = 'localhost'
 port = 5432
 database_name = 'project3_db'
