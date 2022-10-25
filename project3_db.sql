@@ -1,4 +1,14 @@
+-- mindex_filtered_commodities_df
+
+DROP TABLE IF EXISTS mindex_filtered_commodities_df
+
+CREATE TABLE mindex_filtered_commodities_df(
+);
+
+
 ALTER TABLE IF EXISTS public.mindex_filtered_commodities_df
+	ADD COLUMN "SITE_CODE" VARCHAR(10) PRIMARY KEY,
+	ADD COLUMN "PROJ_CODE" VARCHAR(10),
     ADD COLUMN "TITLE" VARCHAR(70),
 	ADD COLUMN "SUB_TYPE" VARCHAR(30),
 	ADD COLUMN "STAGE" VARCHAR(25),
@@ -11,12 +21,15 @@ ALTER TABLE IF EXISTS public.mindex_filtered_commodities_df
 	ADD COLUMN "LGA_NAME" VARCHAR(70),
 	ADD COLUMN "DISTRICT_NAME" VARCHAR(30),
 	ADD COLUMN "TECTONIC_UNIT" VARCHAR(70);
+	CONSTRAINT fk_volume_mindex_filtered_commodities_df
+      FOREIGN KEY(PROJ_CODE) 
+	  REFERENCES volume_mindex_filtered_commodities_df(PROJ_CODE)
 
 
 SELECT *
 FROM mindex_filtered_commodities_df;
 
-
+--------------------------------------------------------------------------------------------
 
 -- volume table
 
