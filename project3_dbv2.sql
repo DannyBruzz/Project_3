@@ -1,5 +1,7 @@
 -- mindex_filtered_commodities_df
 
+
+
 DROP TABLE IF EXISTS mindex_filtered_commodities_df
 
 CREATE TABLE mindex_filtered_commodities_df(
