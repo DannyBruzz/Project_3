@@ -1,0 +1,617 @@
+PROJ_CODE,PROJ_NAME,PRI_P_COM,RES_QTY,TOT_MIN_RES_QUANTITY,RES_CON,TOT_MIN_RES_CONT_COM_UNIT,RES_ALT_CONT_COM,TOT_MIN_RES_ALT_CONT_COM_UNIT
+J05288,8 Mile Dam,Gold,7.014346000000001,million tonnes,9763.969631999998,kilotonne,313918.9174,ounce (troy)
+J01022,Abednego West,Gold,0.07,million tonnes,147.0,kilotonne,4726.159809000001,ounce (troy)
+J00545,Abra - Mulgul,Lead,34.4,million tonnes,2475.6,kilotonne,,
+J03432,Abydos,Iron,15.5,million tonnes,8.8325,kilotonne,,
+J00744,Admiral Bay,Zinc,170.0,million tonnes,6970.0,kilotonne,,
+J00098,Agnew - Emu,Gold,19.879,million tonnes,106195.46,kilotonne,3414263.367,ounce (troy)
+J01130,Ajana,Lead,0.394419,million tonnes,25.415222,kilotonne,,
+J00002,Albury Heath,Gold,0.528,million tonnes,1103.52,kilotonne,35478.99233,ounce (troy)
+J00184,Aldiss - Karonie,Gold,9.342,million tonnes,18323.3,kilotonne,589107.7825,ounce (troy)
+J01048,Alicia,Gold,0.038,million tonnes,147.73,kilotonne,4749.629854,ounce (troy)
+J01032,Anaconda,Zinc,0.8768309999999999,million tonnes,17.273571,kilotonne,,
+J05742,Andover,Nickel,4.7,million tonnes,52.09,kilotonne,,
+J00441,Angelo River Iron Ore,Iron,139.7,million tonnes,83.9746,kilotonne,,
+J00424,Anglo Saxon - Trouser Legs,Gold,4.917,million tonnes,13936.7,kilotonne,448075.3157,ounce (troy)
+J00758,Ant Hill - Sunday Hill,Manganese,8.1,million tonnes,1668.3,kilotonne,,
+J04003,Anthill ,Gold,1.42,million tonnes,2442.1,kilotonne,78515.33925,ounce (troy)
+J03406,Aphrodite,Gold,25.506,million tonnes,50965.8,kilotonne,1638588.541,ounce (troy)
+J02118,Apollo Hill,Gold,76.23,million tonnes,45565.7,kilotonne,1464971.293,ounce (troy)
+J02216,Ashburton / Kalamazoo,Gold,20.789,million tonnes,51479.6,kilotonne,1655107.595,ounce (troy)
+J03903,Athenia,Gold,0.0493,million tonnes,72.964,kilotonne,2345.847104,ounce (troy)
+J04877,Austin - Quinns Base Metals,Copper,1.484422,million tonnes,15.176214000000002,kilotonne,,
+J00461,Avalon,Nickel,169.8,million tonnes,1403.02,kilotonne,,
+J05474,Baden Powell / Horizon,Gold,0.595,million tonnes,714.0,kilotonne,22955.63336,ounce (troy)
+J01377,Balfour South - Woodie Woodie / ConsMin,Manganese,21.6,million tonnes,4190.4,kilotonne,,
+J01536,Bali,Copper,0.09,million tonnes,1.17,kilotonne,,
+J03378,Balmoral South / Australasian Resources,Iron,1605.0,million tonnes,500.165,kilotonne,,
+J00008,Bamboo Creek Gold,Gold,16.701,million tonnes,16340.1,kilotonne,525346.4211,ounce (troy)
+J03486,Bamboo Creek Nickel,Nickel,1.025,million tonnes,8.2,kilotonne,,
+J04199,Bannockburn / Northern Star,Gold,15.06,million tonnes,26070.0,kilotonne,838169.9743,ounce (troy)
+J03392,Barlee,Gold,0.678419,million tonnes,2137.01985,kilotonne,68706.78452999999,ounce (troy)
+J00013,Barrambie Gold,Gold,0.14,million tonnes,310.8,kilotonne,9992.452168000002,ounce (troy)
+J04801,Battler / IMD,Gold,0.452,million tonnes,1293.2,kilotonne,41577.34602,ounce (troy)
+J04143,Beatons Creek JV,Gold,10.94,million tonnes,27852.0,kilotonne,895462.6054,ounce (troy)
+J00016,Bellchambers,Gold,0.198,million tonnes,250.12,kilotonne,8041.5448400000005,ounce (troy)
+J04770,Bellevue,Gold,9.85,million tonnes,97389.0,kilotonne,3131129.1,ounce (troy)
+J05856,Ben Hur,Gold,16.070999999999998,million tonnes,21335.04,kilotonne,685937.4733,ounce (troy)
+J05332,Beyondie Iron / AIC,Iron,714.0,million tonnes,195.636,kilotonne,,
+J00019,Binduli,Gold,74.86,million tonnes,67628.4,kilotonne,2174303.578,ounce (troy)
+J03230,Binti Binti Nickel,Nickel,2.8,million tonnes,25.48,kilotonne,,
+J04148,Black Jack / Duffy,Gold,0.255846,million tonnes,500.1243,kilotonne,16079.369840000001,ounce (troy)
+J01290,Blue Bar,Gold,0.091,million tonnes,235.84,kilotonne,7582.432172,ounce (troy)
+J00126,Blue Spec / Novo,Gold,0.677,million tonnes,7389.7,kilotonne,237584.3751,ounce (troy)
+J03502,Bluebush Line - Republican Hill,Nickel,0.65,million tonnes,19.788,kilotonne,,
+J00026,Boddington Gold,Gold,280.0,million tonnes,150106.0,kilotonne,4826020.029,ounce (troy)
+J00453,Bonnie Rock,Zinc,0.45,million tonnes,5.625,kilotonne,,
+J01289,Boomerang Tailings,Gold,0.015,million tonnes,30.0,kilotonne,964.5224099999999,ounce (troy)
+J02851,Boorara / Horizon,Gold,11.03,million tonnes,13931.3,kilotonne,447901.7017,ounce (troy)
+J00028,Bottle Creek,Gold,6.8685,million tonnes,11517.565,kilotonne,370298.3184,ounce (troy)
+J00233,Brightstar / Stone,Gold,3.3339999999999996,million tonnes,6439.2,kilotonne,207025.0901,ounce (troy)
+J05748,British Hill / IMD,Gold,1.921,million tonnes,3269.5,kilotonne,105116.8673,ounce (troy)
+J00924,British King,Gold,0.1603,million tonnes,817.53,kilotonne,26284.20019,ounce (troy)
+J01879,Broads Dam Dumps,Gold,0.33,million tonnes,348.0,kilotonne,11188.45996,ounce (troy)
+J00023,Broads Dam South - Blue Funnel,Gold,0.37,million tonnes,1046.8,kilotonne,33655.40196,ounce (troy)
+J03931,Brockman 4 Area / Rio Tinto,Iron,24900.8,million tonnes,14880.7162,kilotonne,,
+J00361,Bryah Basin - Wilgeena / Alchemy,Gold,2.235,million tonnes,3514.5,kilotonne,112993.8003,ounce (troy)
+J05377,Bryah Basin Manganese JV,Manganese,1.1909999999999998,million tonnes,256.64099999999996,kilotonne,,
+J03830,Buckland - Bungaroo South,Iron,283.2,million tonnes,160.0922,kilotonne,,
+J04985,Bulgera Creek,Gold,5.08,million tonnes,6216.2,kilotonne,199855.4735,ounce (troy)
+J00033,Bullabulling,Gold,95.37,million tonnes,99783.9,kilotonne,3208126.9239999996,ounce (troy)
+J01519,Bullabulling North,Gold,2.555,million tonnes,4277.0,kilotonne,137508.7449,ounce (troy)
+J01369,Bullfinch North - Mayfield,Iron,6.6,million tonnes,3.5508,kilotonne,,
+J01897,Bulong - Jarvis,Gold,0.179,million tonnes,554.9,kilotonne,17840.44951,ounce (troy)
+J00037,Bulong - Taurus Eluvials,Gold,0.5,million tonnes,790.0,kilotonne,25399.09013,ounce (troy)
+J03557,Bulong South Gold,Gold,0.22699999999999998,million tonnes,1014.9,kilotonne,32629.793130000002,ounce (troy)
+J05074,Bundarra / Bligh,Gold,9.684,million tonnes,20709.6,kilotonne,665829.1101,ounce (troy)
+J00069,Burbanks / REG,Gold,3.4368,million tonnes,8701.57,kilotonne,279761.9756,ounce (troy)
+J04807,Bustler Well / Macdonald,Gold,0.015,million tonnes,111.45,kilotonne,3583.200753,ounce (troy)
+J05455,Butcher Well,Gold,2.68,million tonnes,10114.3,kilotonne,325182.3004,ounce (troy)
+J00733,Butcherbird - Yanneri Ridge,Manganese,262.791,million tonnes,26129.64,kilotonne,,
+J03878,Byro Iron,Iron,22.8,million tonnes,5.8368,kilotonne,,
+J01490,Cadonia,Gold,0.004,million tonnes,46.8,kilotonne,1504.65496,ounce (troy)
+J02501,Caledonian - Summit,Gold,0.023,million tonnes,94.3,kilotonne,3031.815442,ounce (troy)
+J02782,Camelback Bore Nickel,Nickel,4.65,million tonnes,45.57,kilotonne,,
+J03465,Canegrass,Nickel,29.6,million tonnes,209.28,kilotonne,,
+J03113,Cape Lambert Magnetite,Iron,1915.0,million tonnes,586.943,kilotonne,,
+J03961,Caravel Copper - Calingiri Copper–Moly,Copper,1180.5,million tonnes,2836.49,kilotonne,,
+J03423,Carina,Iron,45.3,million tonnes,25.7432,kilotonne,,
+J01138,Carlingup - Nindilbillup  ,Nickel,29.72,million tonnes,174.3858,kilotonne,,
+J02456,Carlow Castle / Artemis,Gold,8.74,million tonnes,11809.0,kilotonne,379668.1713,ounce (troy)
+J01238,Carnage,Gold,0.005,million tonnes,70.15,kilotonne,2255.374902,ounce (troy)
+J02715,Carnilya Hill,Nickel,0.10400000000000001,million tonnes,2.946,kilotonne,,
+J02241,Carosue Dam - Khartoum,Gold,65.719,million tonnes,137727.1,kilotonne,4428029.147,ounce (troy)
+J00477,Carr Boyd Nickel,Nickel,1.4609999999999999,million tonnes,14.075,kilotonne,,
+J02605,Carson,Copper,1.84,million tonnes,9.384,kilotonne,,
+J03034,Cashmere Downs,Iron,1062.4,million tonnes,349.8976,kilotonne,,
+J01882,Cawse,Nickel,176.485,million tonnes,1217.8805,kilotonne,,
+J00056,Central Norseman,Gold,43.083999999999996,million tonnes,144521.494,kilotonne,4646473.99,ounce (troy)
+J05290,Central Sandstone / Aurumin,Gold,22.142,million tonnes,24869.8,kilotonne,799582.6477,ounce (troy)
+J01717,Cheritons Find,Gold,0.1,million tonnes,120.0,kilotonne,3858.0896399999997,ounce (troy)
+J05196,Chitterberrin,Iron,53.54600000000001,million tonnes,15.694332999999999,kilotonne,,
+J01532,Chunderloo,Gold,0.022000000000000002,million tonnes,118.8,kilotonne,3819.5087439999998,ounce (troy)
+J02281,Citadel / Antipa,Gold,108.1,million tonnes,76866.0,kilotonne,2471299.319,ounce (troy)
+J01137,Clampton,Gold,0.005,million tonnes,27.32,kilotonne,878.358408,ounce (troy)
+J01147,Cockatoo Island,Iron,28.0,million tonnes,17.1489,kilotonne,,
+J03047,Coglia,Nickel,70.6,million tonnes,449.4,kilotonne,,
+J02762,Collurabbie Ni / Rox,Nickel,0.572581,million tonnes,9.33307,kilotonne,,
+J02983,Colour Dam,Gold,0.307,million tonnes,521.9,kilotonne,16779.47486,ounce (troy)
+J01200,Comet Eclipse and Mountain King,Gold,0.02,million tonnes,50.0,kilotonne,1607.53735,ounce (troy)
+J00066,Comet Vale - Sand Queen,Gold,0.7490000000000001,million tonnes,6274.5,kilotonne,201729.8621,ounce (troy)
+J00067,Coodardy - Behring Well,Gold,0.151,million tonnes,347.3,kilotonne,11165.95443,ounce (troy)
+J02340,Cookes Creek Nickel,Nickel,0.478,million tonnes,4.302,kilotonne,,
+J02672,Cookes Hill,Gold,1.5,million tonnes,1770.0,kilotonne,56906.82219,ounce (troy)
+J00229,Coolgardie Gold,Gold,5.225,million tonnes,5897.63,kilotonne,189613.21,ounce (troy)
+J00014,Coolgardie Gold / Focus,Gold,42.058,million tonnes,80801.53,kilotonne,2597829.548,ounce (troy)
+J02731,Copernicus,Nickel,0.5329999999999999,million tonnes,6.849,kilotonne,,
+J03390,Copper Range,Copper,0.708,million tonnes,2.6196,kilotonne,,
+J00074,Copperhead Dumps,Gold,0.23,million tonnes,460.0,kilotonne,14789.34362,ounce (troy)
+J04602,Corinthia / Corinthian Mining,Gold,4.4,million tonnes,9240.0,kilotonne,297072.9023,ounce (troy)
+J00075,Cork Tree Well - Delta,Gold,5.6,million tonnes,7960.0,kilotonne,255919.9461,ounce (troy)
+J03749,Corkwood Ni-Cu,Nickel,0.225,million tonnes,1.4625,kilotonne,,
+J02604,Coronation Dam - Duck Hill ,Nickel,5.7,million tonnes,57.0,kilotonne,,
+J02247,Cosmos,Nickel,67.015,million tonnes,661.404,kilotonne,,
+J02414,Coyote - Western Tanami,Gold,2.967,million tonnes,15204.8,kilotonne,488845.67799999996,ounce (troy)
+J00434,Crawfords,Gold,0.132,million tonnes,241.56,kilotonne,7766.334445,ounce (troy)
+J00122,Credo / Singh Sandhu,Gold,0.092925,million tonnes,93.85425,kilotonne,3017.484247,ounce (troy)
+J05012,Credo Well,Gold,0.0863,million tonnes,380.62199999999996,kilotonne,12237.28162,ounce (troy)
+J02146,Cue - Moyagee,Gold,10.797,million tonnes,27062.9,kilotonne,870092.4509999999,ounce (troy)
+J00017,Cue Gold - Central Murchison,Gold,74.378,million tonnes,167198.06,kilotonne,5375542.526000001,ounce (troy)
+J02773,Cue One,Gold,0.17,million tonnes,680.0,kilotonne,21862.50796,ounce (troy)
+J02013,Dalgaranga - Gilbeys,Gold,14.93,million tonnes,18302.1,kilotonne,588426.1867,ounce (troy)
+J00082,Darlot,Gold,14.8481,million tonnes,52331.24,kilotonne,1682488.457,ounce (troy)
+J03317,Darlot / Leopard,Gold,1.835,million tonnes,3886.4,kilotonne,124950.6631,ounce (troy)
+J03210,Davidson Creek Hub,Iron,570.9,million tonnes,319.6885,kilotonne,,
+J00084,Davyhurst - Lady Ida - Mulline - Riverina - Siberia Gold,Gold,23.125999999999998,million tonnes,62487.8,kilotonne,2009029.448,ounce (troy)
+J01831,Day Dawn - Little Wonder,Gold,0.035,million tonnes,85.4,kilotonne,2745.6737940000003,ounce (troy)
+J04020,Deep South - Safari Bore,Gold,7.777,million tonnes,16256.1,kilotonne,522645.7583,ounce (troy)
+J00147,Deflector,Gold,3.0389999999999997,million tonnes,40148.1,kilotonne,1290791.406,ounce (troy)
+J03263,DeGrussa - Monty,Copper,3.4,million tonnes,190.9,kilotonne,,
+J01550,Devlins Reward - Electrum,Gold,0.3,million tonnes,450.0,kilotonne,14467.83615,ounce (troy)
+J00216,Devon - Linden / Matsa,Gold,0.614,million tonnes,2482.8,kilotonne,79823.87465,ounce (troy)
+J04120,Die Hardy Iron,Iron,352.5,million tonnes,92.0535,kilotonne,,
+J03201,Doherty,Gold,0.025,million tonnes,595.0,kilotonne,19129.69447,ounce (troy)
+J03966,Dordie,Gold,0.5778,million tonnes,635.58,kilotonne,20434.37178,ounce (troy)
+J04059,Duck Creek / Brockman Mining,Iron,18.3,million tonnes,10.3422,kilotonne,,
+J00009,Duketon / Regis Resources,Gold,167.0,million tonnes,158700.0,kilotonne,5102323.549,ounce (troy)
+J03161,Duketon Nickel / Duketon Mining,Nickel,8.4729,million tonnes,95.2482,kilotonne,,
+J01649,Dulcie - Fortuna - Parker Range,Gold,1.12,million tonnes,784.0,kilotonne,25206.18565,ounce (troy)
+J06009,Eagle Hawk,Gold,0.006,million tonnes,109.8,kilotonne,3530.152021,ounce (troy)
+J04767,Eagles Nest / Maximus,Gold,0.6799,million tonnes,1323.6270000000002,kilotonne,42555.5968,ounce (troy)
+J03854,Earaheedy Manganese / Zenith,Manganese,4.0,million tonnes,801.6,kilotonne,,
+J02197,East Menzies Gold,Gold,0.5539999999999999,million tonnes,2413.52,kilotonne,77596.4709,ounce (troy)
+J01407,East Pilbara Iron Ore / FMG,Iron,2811.0,million tonnes,1582.2920000000001,kilotonne,,
+J05221,Eastern Lefroy,Gold,1.942,million tonnes,3270.24,kilotonne,105140.6589,ounce (troy)
+J02781,Eastman Base Metals,Zinc,1.5,million tonnes,27.0,kilotonne,,
+J00357,Edna May - Westonia,Gold,31.033,million tonnes,32615.7,kilotonne,1048619.119,ounce (troy)
+J01859,Egerton,Gold,0.27,million tonnes,842.0,kilotonne,27070.928969999997,ounce (troy)
+J01903,Elizabeth Hill,Silver,0.047,million tonnes,126800.0,kilotonne,4076714.72,ounce (troy)
+J01378,Elsa Mary Manganese,Manganese,0.9806,million tonnes,217.1035,kilotonne,,
+J05889,Errolls,Gold,0.027999999999999997,million tonnes,115.64,kilotonne,3717.912383,ounce (troy)
+J01885,Eureka,Gold,2.452,million tonnes,3441.4,kilotonne,110643.5807,ounce (troy)
+J00172,Evanston / Marda,Gold,0.807,million tonnes,2259.6,kilotonne,72647.82792000001,ounce (troy)
+J01441,Evanston Tailings,Gold,0.03,million tonnes,72.3,kilotonne,2324.499008,ounce (troy)
+J04300,Extension / AAMC,Iron,15.6,million tonnes,8.424,kilotonne,,
+J03724,Feysville,Gold,2.8569999999999998,million tonnes,3599.7,kilotonne,115733.04400000001,ounce (troy)
+J01918,Fields Find - The Baron,Gold,0.8,million tonnes,1912.0,kilotonne,61472.22826,ounce (troy)
+J03645,Fig Tree,Iron,193.0,million tonnes,107.501,kilotonne,,
+J04284,Fisher East Nickel,Nickel,7.56,million tonnes,135.24,kilotonne,,
+J04333,Flanagan Bore Manganese,Manganese,104.0,million tonnes,10964.0,kilotonne,,
+J04153,Forrest,Copper,2.4019999999999997,million tonnes,41.604,kilotonne,,
+J05338,Forrestania Gold,Gold,7.2708,million tonnes,9676.821,kilotonne,311117.0237,ounce (troy)
+J04938,Forrestania Gold / Forrestania,Gold,0.541,million tonnes,746.58,kilotonne,24003.1047,ounce (troy)
+J00757,Forrestania Nickel / Western Areas,Nickel,17.432919000000002,million tonnes,265.053741,kilotonne,,
+J04334,Forrestania South Gold,Gold,0.045,million tonnes,197.48,kilotonne,6349.129518,ounce (troy)
+J02498,Fortitude - Lake Carey - Red Dog,Gold,9.283999999999999,million tonnes,18115.0,kilotonne,582410.7819,ounce (troy)
+J00109,Fortnum,Gold,20.651,million tonnes,41440.16,kilotonne,1332332.1,ounce (troy)
+J01973,Fossil Downs,Zinc,2.15,million tonnes,204.25,kilotonne,,
+J01572,Francis Furness,Gold,0.003,million tonnes,120.0,kilotonne,3858.0896399999997,ounce (troy)
+J02280,Garden Gully / CEREP,Gold,0.121,million tonnes,367.84,kilotonne,11826.33078,ounce (troy)
+J01772,Garden Gully / Ora Gold,Gold,0.479,million tonnes,1746.5,kilotonne,56151.27964,ounce (troy)
+J04873,GBF Paris ,Gold,0.314,million tonnes,1016.9,kilotonne,32694.09462,ounce (troy)
+J04136,Ghan Well,Nickel,1.3,million tonnes,11.7,kilotonne,,
+J00218,Gibraltar South / Torian,Gold,0.062,million tonnes,235.6,kilotonne,7574.715993000001,ounce (troy)
+J05443,Gimlet / First Au,Gold,1.1659,million tonnes,3719.2209999999995,kilotonne,119575.7334,ounce (troy)
+J01502,Gladiator Tailings,Gold,0.1,million tonnes,120.0,kilotonne,3858.0896399999997,ounce (troy)
+J02011,Glenburgh,Gold,16.34,million tonnes,15670.0,kilotonne,503802.2055,ounce (troy)
+J00060,Gold Duke,Gold,4.57,million tonnes,9162.0,kilotonne,294565.144,ounce (troy)
+J01075,Golden Dragon,Gold,6.07878,million tonnes,13906.888,kilotonne,447116.8376,ounce (troy)
+J00527,Golden Grove,Zinc,58.5,million tonnes,2569.9,kilotonne,,
+J01430,Golden Grove Alluvials 2 / Minjar,Gold,0.02,million tonnes,12.0,kilotonne,385.808964,ounce (troy)
+J04001,Golden Lode,Gold,0.21,million tonnes,1743.0,kilotonne,56038.75202000001,ounce (troy)
+J00102,Golden Mile / KCGM,Gold,545.967,million tonnes,850453.8,kilotonne,27342724.96,ounce (troy)
+J02439,Golden Ridge Nickel,Nickel,0.22271,million tonnes,6.509842,kilotonne,,
+J02483,Golden Valley Prospecting / Taylor,Gold,0.022000000000000002,million tonnes,433.8,kilotonne,13946.99405,ounce (troy)
+J02634,Golden Virgin - Parker Range,Gold,0.037000000000000005,million tonnes,430.63,kilotonne,13845.076180000002,ounce (troy)
+J00479,Goldsworthy Iron Ore,Iron,200.0,million tonnes,122.1,kilotonne,,
+J02707,Goodenough / Kairiki,Gold,0.7157,million tonnes,1411.0729999999999,kilotonne,45367.05102,ounce (troy)
+J02250,Goodyear Nickel,Nickel,0.39,million tonnes,14.742,kilotonne,,
+J04881,Goongarrie Gold,Gold,0.17800000000000002,million tonnes,480.6,kilotonne,15451.64901,ounce (troy)
+J04956,Goongarrie Lady,Gold,0.31,million tonnes,733.6,kilotonne,23585.787999999997,ounce (troy)
+J01307,Gordon - Sirdar,Gold,1.3980000000000001,million tonnes,2306.7,kilotonne,74162.1281,ounce (troy)
+J04502,Grace,Gold,1.59,million tonnes,2146.5,kilotonne,69011.57844,ounce (troy)
+J00133,Grace Darling,Gold,0.13,million tonnes,1300.0,kilotonne,41795.9711,ounce (troy)
+J00134,Granny Smith,Gold,44.451,million tonnes,252023.7,kilotonne,8102750.217,ounce (troy)
+J01224,Grants Creek,Gold,0.24600000000000002,million tonnes,762.19,kilotonne,24504.97786,ounce (troy)
+J04875,Grass Flat / Exterra,Gold,0.085,million tonnes,314.5,kilotonne,10111.40993,ounce (troy)
+J00129,Great Bingin - Bullfinch North,Gold,0.0547,million tonnes,403.184,kilotonne,12962.66678,ounce (troy)
+J05237,Great Western,Gold,0.385,million tonnes,1092.2,kilotonne,35115.04587,ounce (troy)
+J03224,Greater Mummaloo,Iron,34.2,million tonnes,8.7396,kilotonne,,
+J03404,Grey Dam,Nickel,14.6,million tonnes,110.12,kilotonne,,
+J00115,Gum Creek Gold,Gold,36.827,million tonnes,55801.54,kilotonne,1794061.195,ounce (troy)
+J00330,Gwalia - Leonora,Gold,69.069,million tonnes,232149.0,kilotonne,7463763.765,ounce (troy)
+J01508,Halls Creek - Lamboo Gold,Gold,1.141,million tonnes,8415.4,kilotonne,270561.3963,ounce (troy)
+J00586,Halls Creek Copper,Copper,1.719,million tonnes,23.232,kilotonne,,
+J03672,Hamersley / Pathfinder,Iron,343.2,million tonnes,187.5843,kilotonne,,
+J04564,Hancock Ranges / Alien,Iron,10.4,million tonnes,6.2867,kilotonne,,
+J00149,Hannan South,Gold,0.005,million tonnes,5.0,kilotonne,160.753735,ounce (troy)
+J01349,Hannans North Tourist Mine,Gold,0.07,million tonnes,124.0,kilotonne,3986.6926280000002,ounce (troy)
+J03418,Hardey / API,Iron,150.0,million tonnes,91.304,kilotonne,,
+J01884,Hawkins Find,Gold,0.05,million tonnes,150.0,kilotonne,4822.61205,ounce (troy)
+J05357,Hawks Nest / Magnetic,Gold,3.8291,million tonnes,4561.208,kilotonne,146646.2444,ounce (troy)
+J02253,Hermes Gold,Gold,6.78,million tonnes,13071.9,kilotonne,420271.3497,ounce (troy)
+J03989,Hickman,Iron,70.0,million tonnes,38.792,kilotonne,,
+J00152,Higginsville,Gold,12.226709,million tonnes,28730.68567,kilotonne,923713.0061,ounce (troy)
+J06141,Hilditch Gold,Gold,0.132,million tonnes,233.64,kilotonne,7511.700529000001,ounce (troy)
+J05881,Hill 616,Manganese,57.4,million tonnes,7029.6,kilotonne,,
+J03523,Historic Gold - Broad Arrow (24),Gold,0.397,million tonnes,2636.08,kilotonne,84751.94115,ounce (troy)
+J01878,Hogans - Coogee,Gold,1.422,million tonnes,1524.42,kilotonne,49011.24174,ounce (troy)
+J04178,Hollandaire - Eelya,Copper,0.9359999999999999,million tonnes,17.928,kilotonne,,
+J01659,Holleton - Learys Lament,Gold,0.16699999999999998,million tonnes,340.7,kilotonne,10953.7595,ounce (troy)
+J01408,Homeward Bound - Marble Bar,Gold,0.15,million tonnes,480.0,kilotonne,15432.358559999999,ounce (troy)
+J05555,Homeward Bound South,Gold,1.442,million tonnes,1730.4,kilotonne,55633.652610000005,ounce (troy)
+J00541,Honeymoon Well,Nickel,176.84,million tonnes,1218.24,kilotonne,,
+J00685,Hope Downs Joint Venture,Iron,1573.0,million tonnes,952.1289999999999,kilotonne,,
+J03709,Horse Well,Gold,5.3996,million tonnes,7060.32,kilotonne,226994.5621,ounce (troy)
+J00164,Horseshoe Lights,Copper,14.5144,million tonnes,138.3442,kilotonne,,
+J01501,Horseshoe Manganese,Manganese,0.6459999999999999,million tonnes,128.92,kilotonne,,
+J04036,Horseshoe Range Manganese / Horseshoe Mn,Manganese,0.8550260000000001,million tonnes,178.07892900000002,kilotonne,,
+J00543,Ilgarari,Copper,1.1079999999999999,million tonnes,20.9412,kilotonne,,
+J04268,Innawalley Pool,Iron,63.0,million tonnes,37.044000000000004,kilotonne,,
+J03644,Iron Bridge,Iron,5258.0,million tonnes,1595.136,kilotonne,,
+J05539,Iron Ridge,Iron,8.3,million tonnes,5.3848,kilotonne,,
+J03682,Iron Valley,Iron,173.3,million tonnes,100.5443,kilotonne,,
+J01616,Ironstone Well,Gold,7.3863,million tonnes,8333.658000000001,kilotonne,267933.3299,ounce (troy)
+J02596,Irvine Island,Iron,560.0,million tonnes,140.47,kilotonne,,
+J03040,Jack Hills,Iron,3146.6,million tonnes,1007.22591,kilotonne,,
+J05577,Jasper Hills ,Gold,2.6239999999999997,million tonnes,4894.1,kilotonne,157348.9709,ounce (troy)
+J04253,Jaurdi - Cammi's Creek,Gold,3.8824,million tonnes,5162.2029999999995,kilotonne,165968.6826,ounce (troy)
+J00170,Jeffreys Find,Gold,1.21,million tonnes,1470.6,kilotonne,47280.88854,ounce (troy)
+J05835,Jerdacuttup,Gold,5.601,million tonnes,5064.0,kilotonne,162811.3828,ounce (troy)
+J02978,Jericho / BHP,Nickel,74.0,million tonnes,406.5,kilotonne,,
+J02957,Jimberlana Nickel,Nickel,4.31,million tonnes,43.961999999999996,kilotonne,,
+J03414,Jimblebar Iron / Atlas,Iron,69.1,million tonnes,39.4421,kilotonne,,
+J03902,Johnson Range,Gold,0.8029999999999999,million tonnes,2015.53,kilotonne,64800.7951,ounce (troy)
+J03417,Johnston Range Iron / Padbury,Iron,2.07,million tonnes,1.19232,kilotonne,,
+J02305,Joshtails,Gold,0.005,million tonnes,9.5,kilotonne,305.4320965,ounce (troy)
+J04171,Julia Nickel,Nickel,25.9284,million tonnes,192.65911,kilotonne,,
+J05657,Julimar,Nickel,348.03,million tonnes,561.2180000000001,kilotonne,,
+J04258,Jumbulyer,Gold,0.07,million tonnes,126.0,kilotonne,4050.994122,ounce (troy)
+J01726,Jundee - Nimary,Gold,62.028,million tonnes,168006.6,kilotonne,5401537.691000001,ounce (troy)
+J00413,Jungle Well / PVW,Gold,0.8440000000000001,million tonnes,1211.8,kilotonne,38960.27521,ounce (troy)
+J05596,Kailis,Gold,0.49,million tonnes,1127.0,kilotonne,36233.89187,ounce (troy)
+J06074,Kalgoorlie - Ringlock Dam / OreCorp,Nickel,0.086,million tonnes,1.72,kilotonne,,
+J02352,Kalgoorlie Nickel Project,Nickel,853.72,million tonnes,6057.982,kilotonne,,
+J02816,Kalgoorlie North,Gold,24.883000000000003,million tonnes,37233.8,kilotonne,1197094.4840000002,ounce (troy)
+J03265,Kalpini,Gold,1.8719999999999999,million tonnes,4365.27,kilotonne,140346.6914,ounce (troy)
+J00178,Kambalda - St Ives,Gold,35.343,million tonnes,147306.66,kilotonne,4736019.157,ounce (troy)
+J02628,Kambalda / Mincor,Nickel,2.3132,million tonnes,101.28794,kilotonne,,
+J04930,Kambalda Gold / RNC,Gold,22.636,million tonnes,59669.4,kilotonne,1918415.783,ounce (troy)
+J04621,Kambalda Nickel,Nickel,2.2187,million tonnes,64.57015,kilotonne,,
+J02719,Kambalda Nickel / RNC,Nickel,1.183,million tonnes,32.884,kilotonne,,
+J00181,Kanowna - Golden Valley,Gold,37.971,million tonnes,94276.1,kilotonne,3031047.039,ounce (troy)
+J04894,Kanowna West JV,Gold,0.47515,million tonnes,522.665,kilotonne,16804.070180000002,ounce (troy)
+J02815,Karara - Blue Hills / Gindalbie,Iron,1993.1970000000001,million tonnes,719.265075,kilotonne,,
+J02701,Karijini National Park (unassigned),Iron,130.0,million tonnes,81.6,kilotonne,,
+J03488,Karlawinda Gold,Gold,86.7,million tonnes,65350.0,kilotonne,2101051.316,ounce (troy)
+J05593,Karonie,Gold,2.9610000000000003,million tonnes,3512.6,kilotonne,112932.7139,ounce (troy)
+J05486,Kat Gap Gold,Gold,0.9757,million tonnes,2888.072,kilotonne,92853.67219,ounce (troy)
+J00007,Katanning Gold,Gold,55.9799,million tonnes,66982.11200000001,kilotonne,2153524.9359999998,ounce (troy)
+J00329,Kathleen Valley Gold / ANI,Gold,0.7440000000000001,million tonnes,2063.2,kilotonne,66333.42121,ounce (troy)
+J01284,Kingston,Gold,0.018000000000000002,million tonnes,108.0,kilotonne,3472.280676,ounce (troy)
+J01617,Kirkalocka,Gold,15.0,million tonnes,17240.0,kilotonne,554278.8783,ounce (troy)
+J05659,Kookynie / Nex Metals,Gold,1.58,million tonnes,2542.0,kilotonne,81727.19887000001,ounce (troy)
+J00728,Koolan Island,Iron,21.98,million tonnes,12.98093,kilotonne,,
+J02673,Koolanooka & Blue Hills - Mungada / Sinosteel,Iron,440.05,million tonnes,156.05235,kilotonne,,
+J00559,Koolyanobbing Iron,Iron,74.0,million tonnes,43.2198,kilotonne,,
+J00560,Koongie Park,Zinc,8.93,million tonnes,326.89,kilotonne,,
+J01880,Kulguddi Gold / Duketon Mining,Gold,1.9,million tonnes,2945.0,kilotonne,94683.94992,ounce (troy)
+J01609,Kumarina,Copper,0.836,million tonnes,10.6462,kilotonne,,
+J05442,Kumina / MRL,Iron,139.6,million tonnes,81.0394,kilotonne,,
+J00358,Kundana - White Flag,Gold,76.03,million tonnes,152257.8,kilotonne,4895202.007,ounce (troy)
+J01718,Kundana East,Gold,0.915,million tonnes,4283.4,kilotonne,137714.5097,ounce (troy)
+J03495,Kurnalpi / KalNorth,Gold,5.2546,million tonnes,5947.51,kilotonne,191216.8893,ounce (troy)
+J01212,Kurnalpi Dryblowing / Shannon,Gold,0.015,million tonnes,7.5,kilotonne,241.13060249999998,ounce (troy)
+J03802,Kurnalpi Gold,Gold,1.325,million tonnes,2347.4,kilotonne,75470.66351,ounce (troy)
+J00198,Lady Bountiful,Gold,1.07,million tonnes,2745.0,kilotonne,88253.80052,ounce (troy)
+J05641,Lady Julie,Gold,5.486000000000001,million tonnes,6947.82,kilotonne,223377.603,ounce (troy)
+J01692,Lady Susan,Gold,0.071,million tonnes,142.51,kilotonne,4581.802955,ounce (troy)
+J03340,Lake Giles Magnetite and Ularring Hematite,Iron,1445.76,million tonnes,423.63135,kilotonne,,
+J01666,Lake Johnston / Poseidon,Nickel,3.5,million tonnes,52.13,kilotonne,,
+J04745,Lake Roe,Gold,31.929000000000002,million tonnes,52174.48,kilotonne,1677448.506,ounce (troy)
+J01010,Lake Yindarlgooda Nickel,Nickel,3.8,million tonnes,28.5,kilotonne,,
+J00206,Lalla Rookh,Gold,0.278,million tonnes,591.17,kilotonne,19006.5571,ounce (troy)
+J03119,Lamb Creek / MRL,Iron,39.7,million tonnes,22.6617,kilotonne,,
+J00208,Lancefield Tailings,Gold,1.548,million tonnes,1942.3,kilotonne,62446.3959,ounce (troy)
+J02900,Lanfranchi Tramways,Nickel,5.653,million tonnes,95.1748,kilotonne,,
+J02503,Larkins Find,Nickel,5.2,million tonnes,41.6,kilotonne,,
+J05746,Larkinville,Gold,0.1197,million tonnes,360.9175,kilotonne,11603.76723,ounce (troy)
+J00238,Laverton - Barnicoat - Karridale - Merolia / Focus,Gold,64.437,million tonnes,116100.89,kilotonne,3732730.341,ounce (troy)
+J02174,Laverton Downs,Gold,0.032,million tonnes,144.0,kilotonne,4629.707568,ounce (troy)
+J00440,Leinster,Nickel,194.77,million tonnes,2023.6,kilotonne,,
+J00638,Lennard Shelf / Northwest,Zinc,14.99,million tonnes,702.373,kilotonne,,
+J00563,Lennons Find,Zinc,1.79,million tonnes,91.79,kilotonne,,
+J02802,Leonora - Crawford and Gambier Lass,Gold,3.2439999999999998,million tonnes,3092.6,kilotonne,99429.40017000001,ounce (troy)
+J00232,Leonora / Kin,Gold,34.4616,million tonnes,43200.04,kilotonne,1388913.5559999999,ounce (troy)
+J03482,Liberty - Indee,Zinc,0.59,million tonnes,23.003,kilotonne,,
+J02325,Linden Gold,Gold,1.2762,million tonnes,5640.47,kilotonne,181345.3239,ounce (troy)
+J01525,Lindsays,Gold,3.9732,million tonnes,6705.71,kilotonne,215593.5857,ounce (troy)
+J02143,Livingstone Gold,Gold,1.65802,million tonnes,2502.7414,kilotonne,80465.00556,ounce (troy)
+J03243,Magnetite Range,Iron,434.5,million tonnes,136.51782,kilotonne,,
+J05862,Maguires Reward,Gold,0.3121,million tonnes,674.072,kilotonne,21671.91833,ounce (troy)
+J03136,Makanykarra,Iron,2020.0,million tonnes,739.4019999999999,kilotonne,,
+J03099,Malcolm,Gold,0.2502,million tonnes,1553.94,kilotonne,49960.33179,ounce (troy)
+J05257,Malcolm / Torian,Gold,0.2943,million tonnes,451.04900000000004,kilotonne,14501.562280000002,ounce (troy)
+J00270,Malcolm Challenger Gold - Murrin Murrin,Gold,0.547,million tonnes,1706.64,kilotonne,54869.75086,ounce (troy)
+J02786,Mallina Gold,Gold,225.05,million tonnes,279148.2,kilotonne,8974823.154,ounce (troy)
+J02817,Mandilla,Gold,24.1,million tonnes,24140.0,kilotonne,776119.0326,ounce (troy)
+J00222,Mangaroon Gold,Gold,0.069,million tonnes,1227.3,kilotonne,39458.611789999995,ounce (troy)
+J00522,Manindi,Zinc,1.0758590000000001,million tonnes,70.102811,kilotonne,,
+J02854,Marda / Southern Cross,Gold,2.766,million tonnes,4146.0,kilotonne,133296.9971,ounce (troy)
+J03359,Marillana / Brockman - MRL JV,Iron,1506.3,million tonnes,648.6681,kilotonne,,
+J00571,Marillana Creek - Yandi / BHPB,Iron,1620.0,million tonnes,896.76,kilotonne,,
+J01043,Maroochydore - Broadhurst,Copper,48.63,million tonnes,484.93800000000005,kilotonne,,
+J01304,Marriott,Nickel,0.584,million tonnes,6.8870000000000005,kilotonne,,
+J00226,Marvel Loch - Southern Cross,Gold,29.697,million tonnes,128111.43,kilotonne,4118878.1739999996,ounce (troy)
+J02624,Matilda,Gold,78.37,million tonnes,171712.7,kilotonne,5520691.574,ounce (troy)
+J01211,Maybell - Norseman,Gold,1.7955,million tonnes,3807.54,kilotonne,122415.2552,ounce (troy)
+J01239,Mayday,Gold,1.734,million tonnes,2602.0,kilotonne,83656.24369,ounce (troy)
+J01679,McGuires Reward - Beebyn West,Gold,0.37,million tonnes,1369.0,kilotonne,44014.372639999994,ounce (troy)
+J02511,McPhee Creek,Iron,10.1,million tonnes,5.4374,kilotonne,,
+J04548,McPhees,Gold,0.396,million tonnes,621.72,kilotonne,19988.76242,ounce (troy)
+J01011,Menzies,Gold,15.44,million tonnes,16170.4,kilotonne,519890.4393,ounce (troy)
+J02333,Menzies / Helix,Gold,0.085,million tonnes,510.0,kilotonne,16396.88097,ounce (troy)
+J03438,Miaree - Kaninda,Iron,286.0,million tonnes,89.7026,kilotonne,,
+J03381,Mid West / Atlas,Iron,7.0,million tonnes,4.004,kilotonne,,
+J02490,Millrose,Gold,6.0,million tonnes,10720.0,kilotonne,344656.0078,ounce (troy)
+J03366,Minara,Nickel,2.53,million tonnes,17.71,kilotonne,,
+J00536,Mindy Mindy,Iron,1617.0,million tonnes,956.579,kilotonne,,
+J02199,Minestat Gold Mining Centres,Gold,0.16899999999999998,million tonnes,431.7,kilotonne,13879.477480000001,ounce (troy)
+J04792,Minyari Dome,Gold,36.489000000000004,million tonnes,57403.23,kilotonne,1845556.725,ounce (troy)
+J04392,Miralga Creek,Iron,8.4021,million tonnes,4.810116000000001,kilotonne,,
+J04103,Mon Ami Gold,Gold,2.66,million tonnes,3597.1,kilotonne,115649.45199999999,ounce (troy)
+J00148,Montague Gold,Gold,10.073,million tonnes,16551.4,kilotonne,532139.8739,ounce (troy)
+J02424,Monument - Korong,Gold,3.2569999999999997,million tonnes,4715.9,kilotonne,151619.7078,ounce (troy)
+J00236,Mosquito Creek / Nimble,Gold,12.413,million tonnes,7047.44,kilotonne,226580.4604,ounce (troy)
+J03827,Mt Alexander Magnetite,Iron,591.6,million tonnes,175.5893,kilotonne,,
+J03467,Mt Bevan,Iron,1169.0,million tonnes,408.184,kilotonne,,
+J05718,Mt Cattlin Gold,Gold,0.26,million tonnes,1125.0339999999999,kilotonne,36170.6835,ounce (troy)
+J00240,Mt Celia - Kangaroo Bore,Gold,6.972,million tonnes,9718.2,kilotonne,312447.3895,ounce (troy)
+J03158,Mt Clement - Eastern Hills,Gold,1.3123479999999998,million tonnes,433.06268,kilotonne,13923.28866,ounce (troy)
+J04614,Mt Day - Cat Camp / Matsa,Nickel,2.2302,million tonnes,11.59704,kilotonne,,
+J01671,Mt Dimer / Taipan,Gold,0.7227,million tonnes,1514.043,kilotonne,48677.61344,ounce (troy)
+J01033,Mt Dimer / Toil,Gold,0.53637,million tonnes,2590.8107,kilotonne,83296.49934,ounce (troy)
+J00414,Mt Dockrell Gold,Gold,0.324,million tonnes,224.0,kilotonne,7201.767328,ounce (troy)
+J03319,Mt Dove - Turner River,Iron,0.77,million tonnes,0.44685,kilotonne,,
+J02592,Mt Edwards Nickel,Nickel,10.6851,million tonnes,169.20253,kilotonne,,
+J03321,Mt Elvire - West Pilbara / API,Iron,1343.0,million tonnes,746.3406,kilotonne,,
+J02794,Mt Finnerty Iron,Iron,4.66,million tonnes,2.4961,kilotonne,,
+J04063,Mt Fisher Gold,Gold,1.024761,million tonnes,2913.5164800000002,kilotonne,93671.73122999999,ounce (troy)
+J02185,Mt Forrest - Bulga Downs Gold,Gold,0.4,million tonnes,1120.0,kilotonne,36008.836639999994,ounce (troy)
+J03574,Mt Forrest - Bulga Downs Iron,Iron,1775.985746,million tonnes,568.375078,kilotonne,,
+J03374,Mt Gibson / Gindalbie,Iron,644.0,million tonnes,194.488,kilotonne,,
+J00245,Mt Gibson Gold,Gold,79.7,million tonnes,63760.0,kilotonne,2049931.629,ounce (troy)
+J00596,Mt Gibson Iron,Iron,426.14,million tonnes,133.431878,kilotonne,,
+J05682,Mt Hampton,Gold,0.609,million tonnes,1129.8,kilotonne,36323.913960000005,ounce (troy)
+J01306,Mt Henry - Norseman,Gold,22.21,million tonnes,25762.0,kilotonne,828267.5442,ounce (troy)
+J00106,Mt Holland Gold / Kidman,Gold,15.322000000000001,million tonnes,29814.91,kilotonne,958571.6282,ounce (troy)
+J00430,Mt Ida Gold,Gold,0.318,million tonnes,4378.2,kilotonne,140762.4005,ounce (troy)
+J03291,Mt Ida Iron,Iron,1846.0,million tonnes,544.2378,kilotonne,,
+J04342,Mt Ida South,Gold,4.135,million tonnes,4661.0,kilotonne,149854.6318,ounce (troy)
+J03632,Mt Jewell Gold,Gold,3.14,million tonnes,4158.7,kilotonne,133705.3115,ounce (troy)
+J04863,Mt Jumbo,Gold,2.316,million tonnes,2639.37,kilotonne,84857.71711,ounce (troy)
+J00756,Mt Keith / BHP Billiton,Nickel,643.7,million tonnes,3730.13,kilotonne,,
+J00156,Mt Magnet,Gold,60.284,million tonnes,99086.8,kilotonne,3185714.6380000003,ounce (troy)
+J01371,Mt Manning Range Iron,Iron,5.0,million tonnes,3.0,kilotonne,,
+J02975,Mt Mason,Iron,6.2,million tonnes,3.7228,kilotonne,,
+J05527,Mt McClure / Yandal,Gold,2.225,million tonnes,4277.9,kilotonne,137537.6806,ounce (troy)
+J04799,Mt Monger / Mt Monger Resources,Gold,0.166,million tonnes,364.8,kilotonne,11728.592509999999,ounce (troy)
+J05440,Mt Monger North,Gold,0.2046,million tonnes,529.914,kilotonne,17037.13095,ounce (troy)
+J00256,Mt Morgans,Gold,26.186,million tonnes,47466.7,kilotonne,1526089.8630000001,ounce (troy)
+J00603,Mt Mulcahy,Copper,0.6472319999999999,million tonnes,15.221639000000001,kilotonne,,
+J01860,Mt Newman Gold,Gold,0.14,million tonnes,700.0,kilotonne,22505.5229,ounce (troy)
+J03440,Mt Oscar / Artemis,Iron,126.0,million tonnes,42.6384,kilotonne,,
+J03571,Mt Padbury Iron,Iron,13.3,million tonnes,7.4479999999999995,kilotonne,,
+J01537,Mt Pleasant Copper,Copper,0.264,million tonnes,10.9888,kilotonne,,
+J04952,Mt Sholl,Nickel,5.78,million tonnes,31.285999999999998,kilotonne,,
+J05741,Mt Sholl Nickel-Copper-PGE-Gold,Nickel,3.17,million tonnes,14.152999999999999,kilotonne,,
+J04654,Mt Stirling / Asra,Gold,2.747,million tonnes,4729.3,kilotonne,152050.5278,ounce (troy)
+J03360,Mt Thirsty,Nickel,26.8,million tonnes,140.34,kilotonne,,
+J03641,Mt Webber ,Iron,56.1,million tonnes,32.0454,kilotonne,,
+J00167,Mt York Gold,Gold,28.0,million tonnes,34227.3,kilotonne,1100433.263,ounce (troy)
+J05730,Mt York Gold / Pilbara Minerals,Gold,0.039,million tonnes,48.99,kilotonne,1575.065096,ounce (troy)
+J01361,Mugga King,Gold,0.255,million tonnes,714.0,kilotonne,22955.63336,ounce (troy)
+J00926,Mugga King Tailings,Gold,0.005,million tonnes,8.75,kilotonne,281.3190363,ounce (troy)
+J02417,Mulgabbie North,Gold,0.6,million tonnes,1320.0,kilotonne,42438.986039999996,ounce (troy)
+J00268,Mulwarrie Central,Gold,0.8809999999999999,million tonnes,2466.8,kilotonne,79309.4627,ounce (troy)
+J03053,Munro Bore,Gold,0.27,million tonnes,432.0,kilotonne,13889.1227,ounce (troy)
+J02772,Murchison / Monument,Gold,15.9412,million tonnes,24733.616,kilotonne,795204.2304,ounce (troy)
+J00347,Murchison / Westgold,Gold,16.8373,million tonnes,35775.296,kilotonne,1150202.491,ounce (troy)
+J03245,Murchison Gold - Andy Well - Gnaweeda,Gold,14.197000000000001,million tonnes,44878.4,kilotonne,1442874.084,ounce (troy)
+J00480,Murrin Murrin / Minara,Nickel,200.9,million tonnes,2026.5,kilotonne,,
+J03189,Nameless / FMG,Iron,240.0,million tonnes,121.0296,kilotonne,,
+J03026,Nanadie Well,Copper,40.4,million tonnes,161.6,kilotonne,,
+J00974,Nepean,Nickel,2.37,million tonnes,36.36,kilotonne,,
+J01837,New Bulong - Boundary - Kal East Gold Project,Gold,3.548,million tonnes,9429.20002,kilotonne,303155.8243,ounce (troy)
+J01007,New Mexico,Gold,0.006999999999999999,million tonnes,84.0,kilotonne,2700.662748,ounce (troy)
+J02524,Newington Gold,Gold,0.1473,million tonnes,1325.36,kilotonne,42611.31404,ounce (troy)
+J00623,Newman / BHPB,Iron,28720.0,million tonnes,17117.9,kilotonne,,
+J00626,Nifty,Copper,95.1,million tonnes,942.4,kilotonne,,
+J02021,Nimbus,Silver,12.0896,million tonnes,627889.2,kilotonne,20187106.81,ounce (troy)
+J02232,NiWest / GME,Nickel,85.3001,million tonnes,880.2900900000001,kilotonne,,
+J00990,Norseman / Accent,Gold,1.381,million tonnes,2160.94,kilotonne,69475.83522000001,ounce (troy)
+J05393,Norseman / Galileo,Nickel,25.1,million tonnes,122.41,kilotonne,,
+J03285,North Ironcap,Gold,0.5589999999999999,million tonnes,1336.01,kilotonne,42953.7195,ounce (troy)
+J01436,North Kanowna Star,Gold,0.716,million tonnes,977.9,kilotonne,31440.21549,ounce (troy)
+J01639,North Laverton Gold,Gold,3.4139999999999997,million tonnes,8557.73,kilotonne,275137.4121,ounce (troy)
+J02818,North Monger - Kal East Gold Project,Gold,16.868,million tonnes,32536.7,kilotonne,1046079.21,ounce (troy)
+J00282,North Shaw,Gold,0.004,million tonnes,20.0,kilotonne,643.01494,ounce (troy)
+J04876,North Widgiemooltha Gold / Mincor,Gold,4.055,million tonnes,5814.8,kilotonne,186950.1637,ounce (troy)
+J04167,Nova-Bollinger,Nickel,11.16,million tonnes,169.454,kilotonne,,
+J01913,Nullagine / Millennium,Gold,22.0495,million tonnes,34475.46,kilotonne,1108411.7920000001,ounce (troy)
+J03030,Nullagine CID,Iron,83.2,million tonnes,44.9865,kilotonne,,
+J03970,Oakover Manganese / Firefly,Manganese,172.3,million tonnes,16947.5,kilotonne,,
+J04248,Ophthalmia,Iron,341.07,million tonnes,202.233572,kilotonne,,
+J04664,Ora Banda / Norton,Gold,17.79,million tonnes,33085.8,kilotonne,1063733.185,ounce (troy)
+J00292,Paddington - Mt Pleasant,Gold,59.98,million tonnes,135037.0,kilotonne,4341540.423,ounce (troy)
+J01556,Palm Springs - Mt Bradley,Gold,8.377,million tonnes,17168.21,kilotonne,551970.7762,ounce (troy)
+J03935,Pannawonica CID,Iron,51.1,million tonnes,27.2203,kilotonne,,
+J02626,Pardoo - Highway,Nickel,50.0,million tonnes,151.7,kilotonne,,
+J03069,Parker Range - Burbidge,Gold,0.2965,million tonnes,495.72,kilotonne,15937.7683,ounce (troy)
+J03500,Parker Range - Mt Caudan Iron,Iron,36.2,million tonnes,20.1564,kilotonne,,
+J01053,Parker Range - Olga Rocks,Gold,1.3894,million tonnes,3160.34,kilotonne,101607.2918,ounce (troy)
+J01894,Paroo Station,Lead,51.6,million tonnes,1924.0,kilotonne,,
+J05392,Paterson / Greatland Gold,Gold,92.0,million tonnes,170900.0,kilotonne,5494562.6620000005,ounce (troy)
+J05463,Paterson / Rio Tinto,Copper,608.0,million tonnes,2476.8,kilotonne,,
+J00242,Paulsens,Gold,2.661,million tonnes,6695.7,kilotonne,215271.7567,ounce (troy)
+J03312,Paulsens East Iron,Iron,9.6,million tonnes,5.8656,kilotonne,,
+J00302,Peak Hill / Aragon,Gold,6.497000000000001,million tonnes,11472.62,kilotonne,368853.30299999996,ounce (troy)
+J03833,Peak Hill / AustSino,Iron,937.5,million tonnes,258.77275,kilotonne,,
+J02354,Pelican,Nickel,5.39,million tonnes,51.9057,kilotonne,,
+J05525,Penny Gold,Gold,0.53,million tonnes,9080.0,kilotonne,291928.7828,ounce (troy)
+J01376,Pennys Find,Gold,0.27,million tonnes,1347.55,kilotonne,43324.73912,ounce (troy)
+J04651,Perenjori Iron Ore,Iron,191.7,million tonnes,70.21363000000001,kilotonne,,
+J01338,Phillips Find,Gold,0.7585,million tonnes,1760.73,kilotonne,56608.784770000006,ounce (troy)
+J03122,Phils Creek / PMI,Iron,15.1,million tonnes,8.3981,kilotonne,,
+J02126,Picnic,Gold,0.021,million tonnes,49.35,kilotonne,1586.6393640000001,ounce (troy)
+J02251,Pilbara Gold,Gold,25.58,million tonnes,50499.0,kilotonne,1623580.573,ounce (troy)
+J03678,Pilbara Iron (PIOP),Iron,1483.0,million tonnes,773.216,kilotonne,,
+J03123,Pilbara Iron / WA Iron,Iron,182.6,million tonnes,96.201672,kilotonne,,
+J04732,Pinnacles Gold / Nexus - Saracen JV,Gold,0.609,million tonnes,2466.4,kilotonne,79296.6024,ounce (troy)
+J04062,Plutonic Dome,Gold,10.385,million tonnes,31137.5,kilotonne,1001093.885,ounce (troy)
+J00417,Plutonic Gold,Gold,49.52,million tonnes,183276.0,kilotonne,5892460.307,ounce (troy)
+J04154,Polar Bear Gold,Gold,0.5923,million tonnes,1027.24,kilotonne,33026.53335,ounce (troy)
+J03006,Poondano Iron Ore,Iron,4.5,million tonnes,2.097,kilotonne,,
+J00094,Porphyry - Northern Operations,Gold,23.836,million tonnes,43695.4,kilotonne,1404839.75,ounce (troy)
+J03677,Prairie Downs Iron,Iron,2332.0,million tonnes,584.368,kilotonne,,
+J01505,Primrose,Gold,1.035,million tonnes,3312.0,kilotonne,106483.2741,ounce (troy)
+J03995,Project Io - Nyidinghu,Iron,2474.0,million tonnes,1418.457,kilotonne,,
+J00643,Pyke Hill,Nickel,10.5,million tonnes,103.74,kilotonne,,
+J02344,Quartz Circle,Gold,0.09300000000000001,million tonnes,22.32,kilotonne,717.604673,ounce (troy)
+J02144,Quartz Creek - Minerichee,Gold,0.092,million tonnes,181.98,kilotonne,5850.792939,ounce (troy)
+J00307,Queen Lapage,Gold,0.25688,million tonnes,771.2224,kilotonne,24795.37626,ounce (troy)
+J03108,Quicksilver,Nickel,26.3,million tonnes,169.65,kilotonne,,
+J00104,Quinns,Gold,0.56,million tonnes,1464.2,kilotonne,47075.12376,ounce (troy)
+J01432,Radio - Bullfinch,Gold,0.2107,million tonnes,889.7130000000001,kilotonne,28604.93757,ounce (troy)
+J00763,Radio Hill Nickel,Nickel,1.15,million tonnes,5.98,kilotonne,,
+J00251,Randalls - Mt Monger,Gold,24.009,million tonnes,94850.0,kilotonne,3049498.353,ounce (troy)
+J01315,Randalls Tailings,Gold,0.015,million tonnes,30.0,kilotonne,964.5224099999999,ounce (troy)
+J00120,Randwick - Gold Hill,Gold,0.5529999999999999,million tonnes,1116.54,kilotonne,35897.59506,ounce (troy)
+J00644,Range and Turtle - Copper Ridge,Copper,0.091,million tonnes,1.82,kilotonne,,
+J02145,Ravensthorpe - First Quantum,Nickel,310.75,million tonnes,1717.326,kilotonne,,
+J00191,Ravensthorpe Gold,Gold,16.47,million tonnes,34514.0,kilotonne,1109650.882,ounce (troy)
+J04276,Rebecca,Gold,31.35,million tonnes,38335.0,kilotonne,1232498.886,ounce (troy)
+J03877,Red Bore,Copper,0.048,million tonnes,1.7280000000000002,kilotonne,,
+J01518,Red Flag - Hawks Nest,Gold,0.057999999999999996,million tonnes,185.02,kilotonne,5948.53121,ounce (troy)
+J04019,Red October,Gold,1.296,million tonnes,6867.4,kilotonne,220792.0399,ounce (troy)
+J02402,Red White and Blue,Gold,0.276,million tonnes,524.4,kilotonne,16859.851730000002,ounce (troy)
+J00342,Redcliffe,Gold,12.67,million tonnes,21301.2,kilotonne,684849.4920000001,ounce (troy)
+J03459,Reedy South,Gold,0.778,million tonnes,1322.6,kilotonne,42522.57798,ounce (troy)
+J00311,Richenda River - Turtle,Gold,0.25,million tonnes,937.5,kilotonne,30141.325310000004,ounce (troy)
+J01915,Ridges Iron Ore,Iron,50.109965,million tonnes,23.11654,kilotonne,,
+J02949,Riverina Nickel,Nickel,2.19585,million tonnes,22.178085,kilotonne,,
+J00484,Robe River - Deepdale,Iron,6251.0,million tonnes,3603.9390000000003,kilotonne,,
+J03577,Robinson Range Iron / Auris,Iron,4.3,million tonnes,2.3736,kilotonne,,
+J03037,Robinson Range Iron / Sinosteel Midwest,Iron,7.3645,million tonnes,3.950597,kilotonne,,
+J02780,Rose Dam,Gold,0.68,million tonnes,2090.0,kilotonne,67195.06122999999,ounce (troy)
+J00315,Rothsay,Gold,1.405,million tonnes,14559.6,kilotonne,468102.016,ounce (troy)
+J02127,Rowes Find - Kal East Gold Project,Gold,0.14800000000000002,million tonnes,518.0,kilotonne,16654.08695,ounce (troy)
+J00316,Ruby Queen - Halls Creek,Gold,0.08199999999999999,million tonnes,738.6,kilotonne,23746.54173,ounce (troy)
+J00952,Ruby Well / Rubianna,Gold,0.22899999999999998,million tonnes,663.3,kilotonne,21325.590490000002,ounce (troy)
+J04951,Ruth Well,Nickel,0.152,million tonnes,0.9576,kilotonne,,
+J02129,Saddows,Gold,0.006999999999999999,million tonnes,112.0,kilotonne,3600.883664,ounce (troy)
+J00657,Salt Creek,Zinc,2.745,million tonnes,95.12299999999999,kilotonne,,
+J02278,Sandstone / Alto,Gold,12.597000000000001,million tonnes,20139.73,kilotonne,647507.3639,ounce (troy)
+J03673,Sanjiv Ridge,Iron,64.252,million tonnes,36.726046000000004,kilotonne,,
+J00656,Savannah Nickel,Nickel,13.456,million tonnes,209.8709,kilotonne,,
+J02508,Scotia Gold,Gold,1.1,million tonnes,2310.0,kilotonne,74268.22557000001,ounce (troy)
+J00658,Scotia Nickel - Broad Arrow,Nickel,0.9109999999999999,million tonnes,21.318,kilotonne,,
+J00327,Sharks Gully - Kangaroo Flats,Gold,1.0,million tonnes,800.0,kilotonne,25720.5976,ounce (troy)
+J00665,Sherlock Bay,Nickel,24.7,million tonnes,99.63,kilotonne,,
+J04475,Shine / Mt Gibson,Iron,11.5,million tonnes,6.7128,kilotonne,,
+J05417,Silver Knight,Nickel,0.39,million tonnes,10.995999999999999,kilotonne,,
+J00452,Silver Swan - Black Swan,Nickel,29.8809,million tonnes,205.84908000000001,kilotonne,,
+J03021,Silver Swan North,Gold,0.2646,million tonnes,671.7,kilotonne,21595.656759999998,ounce (troy)
+J02677,Sinclair,Nickel,0.72,million tonnes,15.84,kilotonne,,
+J00446,Sino - Cape Preston Iron,Iron,5088.0,million tonnes,1616.6929,kilotonne,,
+J05346,Slate Dam,Gold,2.116,million tonnes,3580.8,kilotonne,115125.3949,ounce (troy)
+J02198,Snake Hill,Nickel,0.35,million tonnes,3.15,kilotonne,,
+J00051,Snake Well,Gold,2.753,million tonnes,6231.87,kilotonne,200359.2757,ounce (troy)
+J01646,Solomon - Greater Solomon,Iron,4798.0,million tonnes,2693.3288,kilotonne,,
+J00673,Sorby Hills,Lead,51.5,million tonnes,1489.5,kilotonne,,
+J00276,South Kalgoorlie Operations,Gold,25.051,million tonnes,77834.2,kilotonne,2502427.672,ounce (troy)
+J03419,South Murchison - Gullewa,Iron,1.153,million tonnes,0.5967020000000001,kilotonne,,
+J03356,South Three - Kal East,Gold,1.298,million tonnes,1717.2,kilotonne,55209.26275,ounce (troy)
+J00513,South Woodie Woodie - Enacheddong Creek,Manganese,14.24,million tonnes,1897.658,kilotonne,,
+J00333,Spargos Reward,Gold,2.2640000000000002,million tonnes,6229.1,kilotonne,200270.2181,ounce (troy)
+J00677,Spargoville Nickel,Nickel,0.3443,million tonnes,7.561710000000001,kilotonne,,
+J03468,Spinifex Ridge - Kitty Gap Iron,Iron,5.502000000000001,million tonnes,3.216294,kilotonne,,
+J04978,Spring Creek / FMG,Iron,23.9,million tonnes,13.1783,kilotonne,,
+J03564,Steeple Hill Iron Project (SHIP),Iron,93.0,million tonnes,10.323,kilotonne,,
+J02729,Strelley - McPhees,Gold,0.033,million tonnes,71.94,kilotonne,2312.924739,ounce (troy)
+J03305,Sulphur Springs,Zinc,17.311,million tonnes,994.574,kilotonne,,
+J01703,Sunrise Dam,Gold,73.58,million tonnes,142444.1,kilotonne,4579684.221,ounce (troy)
+J01874,Sunset Well,Gold,1.0959999999999999,million tonnes,1534.4,kilotonne,49332.1062,ounce (troy)
+J01003,Surprize,Gold,0.02,million tonnes,10.0,kilotonne,321.50747,ounce (troy)
+J01085,Swincers,Gold,0.004,million tonnes,38.8,kilotonne,1247.4489839999999,ounce (troy)
+J01127,Sylvania,Zinc,2.99,million tonnes,147.629,kilotonne,,
+J05005,Symes Find / Mt Hampton,Gold,0.065,million tonnes,120.25,kilotonne,3866.127327,ounce (troy)
+J06158,System Test Project,Gold,10.0,million tonnes,50000.0,kilotonne,1607537.35,ounce (troy)
+J00751,Tallering Peak / Mt Gibson,Iron,11.64,million tonnes,7.148910000000001,kilotonne,,
+J06200,Tambourah Gold and Copper,Gold,0.035,million tonnes,10.5,kilotonne,337.5828435,ounce (troy)
+J01073,Tampia,Gold,5.4,million tonnes,8930.0,kilotonne,287106.1707,ounce (troy)
+J00186,Tarmoola - King of the Hills,Gold,105.48899999999999,million tonnes,147883.6,kilotonne,4754568.209,ounce (troy)
+J01699,Teal - Peyes Farm,Gold,5.3928,million tonnes,10738.552,kilotonne,345252.4685,ounce (troy)
+J00338,Telfer / Newcrest,Gold,148.44,million tonnes,142653.0,kilotonne,4586400.512,ounce (troy)
+J01287,Teutonic Bore - Jaguar,Zinc,6.97,million tonnes,423.9818,kilotonne,,
+J01013,Thaduna / Ventnor,Copper,8.185,million tonnes,171.0774,kilotonne,,
+J01339,The Mount,Gold,0.888,million tonnes,4215.6,kilotonne,135534.6891,ounce (troy)
+J01135,Three Boys Hill,Gold,0.004,million tonnes,7.2,kilotonne,231.4853784,ounce (troy)
+J01373,Three Rivers Iron / Alchemy,Iron,2.839,million tonnes,1.7034,kilotonne,,
+J02419,Thunderbox Gold,Gold,86.914,million tonnes,144354.3,kilotonne,4641098.578,ounce (troy)
+J02566,Thunderbox Nickel,Nickel,0.689037,million tonnes,14.630814,kilotonne,,
+J03430,Tollu,Copper,3.8961300000000003,million tonnes,38.987564,kilotonne,,
+J02723,Tropicana,Gold,126.1,million tonnes,217620.0,kilotonne,6996645.562000001,ounce (troy)
+J03480,Tuckanarra Gold,Gold,1.9609999999999999,million tonnes,3097.47,kilotonne,99585.97431,ounce (troy)
+J05974,Tumblegum South,Gold,0.6158,million tonnes,1379.392,kilotonne,44348.483210000006,ounce (troy)
+J03203,Turner River - Orchard Well,Zinc,3.47,million tonnes,111.37,kilotonne,,
+J01345,Twin Hills / Melrose,Gold,0.017,million tonnes,354.62,kilotonne,11401.2979,ounce (troy)
+J04727,Two Dees / Nankivell,Gold,0.02,million tonnes,280.0,kilotonne,9002.209159999999,ounce (troy)
+J04249,Ubini,Gold,0.02,million tonnes,63.0,kilotonne,2025.497061,ounce (troy)
+J02010,Ulysses Gold,Gold,49.398,million tonnes,75066.6,kilotonne,2413447.265,ounce (troy)
+J01565,Van Uden - Mt Holland,Gold,5.377999999999999,million tonnes,7395.51,kilotonne,237771.1709,ounce (troy)
+J04242,Vivien,Gold,0.46399999999999997,million tonnes,1851.8,kilotonne,59536.75329,ounce (troy)
+J05413,Wallbrook,Gold,2.167,million tonnes,2647.54,kilotonne,85120.38871,ounce (troy)
+J03554,Warrawanda / Atlas,Iron,24.0,million tonnes,13.632,kilotonne,,
+J02267,Warrawoona Gold / Calidus,Gold,43.83,million tonnes,47626.1,kilotonne,1531214.6919999998,ounce (troy)
+J01037,Wattle Dam - Spargoville Gold,Gold,1.0862,million tonnes,2072.024,kilotonne,66617.1194,ounce (troy)
+J03874,Webbs Patch,Gold,0.024,million tonnes,163.2,kilotonne,5247.00191,ounce (troy)
+J04396,Weelumurra,Iron,196.49,million tonnes,105.42346200000001,kilotonne,,
+J05977,Weerianna,Gold,0.975699,million tonnes,1951.398,kilotonne,62738.90339,ounce (troy)
+J00755,Weld Range Iron Ore,Iron,56.71,million tonnes,31.2215,kilotonne,,
+J02480,Weld Range Nickel Laterite,Nickel,353.0,million tonnes,2302.1,kilotonne,,
+J00706,West Angelas,Iron,30.5,million tonnes,14.165,kilotonne,,
+J02463,West Musgrave / Oz,Nickel,389.1,million tonnes,1170.15,kilotonne,,
+J03693,West Pilbara - Anthiby Well,Iron,38.0,million tonnes,20.368,kilotonne,,
+J03229,West Pilbara - Mt Stuart /API,Iron,162.0,million tonnes,88.1686,kilotonne,,
+J00753,West Pilbara - Red Hill / API,Iron,816.0,million tonnes,460.79400000000004,kilotonne,,
+J03948,West Pilbara / Hammer,Iron,11.5,million tonnes,6.1065,kilotonne,,
+J03497,Western Creek - Homestead,Iron,375.1,million tonnes,210.7741,kilotonne,,
+J03436,Western Hub / FMG,Iron,3038.9,million tonnes,1742.24859,kilotonne,,
+J00354,Western Queen - Warda Warra,Gold,2.0968,million tonnes,5077.483,kilotonne,163244.8713,ounce (troy)
+J01585,Westonia Heap Leach,Gold,0.23,million tonnes,230.0,kilotonne,7394.67181,ounce (troy)
+J00711,Whim Creek - Mons Cupri,Zinc,7.655,million tonnes,69.32300000000001,kilotonne,,
+J03549,White Well,Gold,4.57,million tonnes,3484.0,kilotonne,112013.2025,ounce (troy)
+J00712,Whundo Base Metals,Zinc,3.585,million tonnes,50.9608,kilotonne,,
+J02853,Widgiemooltha Gold,Gold,4.481,million tonnes,6191.75,kilotonne,199069.3877,ounce (troy)
+J02789,Widgiemooltha Nickel / Mincor,Nickel,2.8,million tonnes,103.193,kilotonne,,
+J02213,Wilconi,Nickel,91.0,million tonnes,666.0,kilotonne,,
+J00438,Wild-Viper,Gold,0.05,million tonnes,100.0,kilotonne,3215.0747,ounce (troy)
+J03101,Wilthorpe,Gold,1.2570000000000001,million tonnes,1920.55,kilotonne,61747.11715,ounce (troy)
+J04172,Wiluna Calcine Tailings,Gold,33.6,million tonnes,19222.5,kilotonne,618017.7342,ounce (troy)
+J03041,Wiluna West Iron,Iron,130.4,million tonnes,78.2699,kilotonne,,
+J04955,Windanya,Gold,1.0193,million tonnes,1327.56,kilotonne,42682.04569,ounce (troy)
+J00612,Windarra / Poseidon,Nickel,9.681000000000001,million tonnes,147.6087,kilotonne,,
+J03296,Windarra Gold Tailings,Gold,10.745,million tonnes,5563.02,kilotonne,178855.2486,ounce (troy)
+J00717,Wingellina,Nickel,215.837898,million tonnes,1952.4897260000002,kilotonne,,
+J03640,Wodgina Iron / Atlas,Iron,24.7,million tonnes,13.4872,kilotonne,,
+J03313,Wonmunna Iron,Iron,84.2,million tonnes,47.5815,kilotonne,,
+J00725,Woodie Woodie (Mining Corridor) / ConsMin,Manganese,65.505913,million tonnes,19930.68261,kilotonne,,
+J04959,Wycheproof,Gold,0.0766,million tonnes,219.842,kilotonne,7068.084522,ounce (troy)
+J01038,Xanadu - Neerambah Spring,Gold,1.4980000000000002,million tonnes,2347.16,kilotonne,75462.94733,ounce (troy)
+J02172,Yalgoo,Gold,5.4581,million tonnes,8210.118,kilotonne,263961.4267,ounce (troy)
+J03225,Yalgoo Iron / FIJV,Iron,460.0,million tonnes,126.5,kilotonne,,
+J03396,Yalgoo Iron / Venture,Iron,112.5,million tonnes,28.4625,kilotonne,,
+J03847,Yalgoo Iron / Venus,Iron,698.2,million tonnes,204.6724,kilotonne,,
+J03320,Yalleen,Iron,84.3,million tonnes,48.209695,kilotonne,,
+J04673,Yamarna - Gruyere JV,Gold,169.5585,million tonnes,229221.405,kilotonne,7369639.399,ounce (troy)
+J01858,Yamarna / Gold Road,Gold,6.45,million tonnes,15720.4,kilotonne,505422.6031,ounce (troy)
+J00250,Yandal - Bronzewing,Gold,25.226,million tonnes,47765.4,kilotonne,1535693.291,ounce (troy)
+J00732,Yandicoogina / HI-Yandi,Iron,788.0,million tonnes,473.7,kilotonne,,
+J03838,Yandicoogina South,Iron,4.275,million tonnes,2.38545,kilotonne,,
+J03193,Yarraloola / CZR,Iron,78.4,million tonnes,42.5408,kilotonne,,
+J05367,Yarri / Nelson,Gold,0.084,million tonnes,147.0,kilotonne,4726.159809000001,ounce (troy)
+J03751,Yerecoin,Iron,246.7,million tonnes,73.76664,kilotonne,,
+J01279,Yerilla,Gold,0.527,million tonnes,1011.84,kilotonne,32531.411839999997,ounce (troy)
+J03111,Yerilla / Wild Acre,Gold,0.128,million tonnes,647.86,kilotonne,20829.18295,ounce (troy)
+J02349,Yerilla Nickel / Minara,Nickel,7.782,million tonnes,77.8962,kilotonne,,
+J01866,Yilgangi,Gold,0.2258,million tonnes,316.12,kilotonne,10163.49414,ounce (troy)
+J00366,Yilgangi Queen,Gold,0.1125,million tonnes,634.5,kilotonne,20399.64897,ounce (troy)
+J00367,Youanmi Gold - OYG JV,Gold,27.9,million tonnes,99430.3,kilotonne,3196758.4189999998,ounce (troy)
+J01061,Young River Nickel,Nickel,1.0,million tonnes,10.0,kilotonne,,
+J03475,Yuinmery Copper-Gold,Copper,1.266,million tonnes,23.7647,kilotonne,,
+J02775,Yundamindera / Saracen,Gold,2.428,million tonnes,3826.2,kilotonne,123015.1882,ounce (troy)
+J00371,Yundamindra / Nex,Gold,2.451,million tonnes,4293.7,kilotonne,138045.6624,ounce (troy)
+J04000,Zanthus Magnetite,Iron,103.6,million tonnes,27.454,kilotonne,,
+J01082,Zelica - Eucalyptus,Gold,1.5378,million tonnes,3682.56,kilotonne,118397.0549,ounce (troy)
+J03563,Zuleika North - Ora Banda / Evolution,Gold,5.77,million tonnes,11254.6,kilotonne,361843.7972,ounce (troy)

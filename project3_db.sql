@@ -15,3 +15,27 @@ ALTER TABLE IF EXISTS public.mindex_filtered_commodities_df
 
 SELECT *
 FROM mindex_filtered_commodities_df;
+
+
+
+-- volume table
+
+DROP TABLE IF EXISTS volume_mindex_filtered_commodities_df
+
+CREATE TABLE volume_mindex_filtered_commodities_df(
+);
+
+
+ALTER TABLE IF EXISTS public.volume_mindex_filtered_commodities_df
+    ADD COLUMN "PROJ_CODE" VARCHAR(10) PRIMARY KEY,
+	ADD COLUMN "PROJ_NAME" VARCHAR(100),
+	ADD COLUMN "PRI_P_COM" VARCHAR(50),
+	ADD COLUMN "RES_QTY" VARCHAR(200),
+	ADD COLUMN "TOT_MIN_RES_QUANTITY" VARCHAR(254),
+	ADD COLUMN "RES_CON" VARCHAR(254),
+	ADD COLUMN "TOT_MIN_RES_CONT_COM_UNIT" VARCHAR(254),
+	ADD COLUMN "RES_ALT_CONT_COM" VARCHAR(254),
+	ADD COLUMN "TOT_MIN_RES_ALT_CONT_COM_UNIT" VARCHAR(254);
+
+SELECT *
+FROM volume_mindex_filtered_commodities_df;

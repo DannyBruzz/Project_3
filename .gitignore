@@ -5,6 +5,7 @@ __pycache__/
 
 #Adding config.py file.
 config_dm.py
+config_js.py
 
 # C extensions
 *.so
