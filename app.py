@@ -59,19 +59,20 @@ def index():
 @app.route("/map")
 def map_view():
     return render_template("map.html")
-
+# Set route : Dashboard
 @app.route("/dashboard")
 def dash_view():
     return render_template("dashboard.html")
-# Set route : Dashboard
-@app.route("/api/dashboard")
 
-def execute_read_query():
+# Set route : Dashboard
+@app.route("/api/dashboard/<commodity>")
+
+def execute_read_query(commodity):
     connection = create_connection()
     cursor = connection.cursor()
     result = None
     try:
-        cursor.execute("SELECT * FROM lead")
+        cursor.execute(f"SELECT * FROM {commodity}")
         result = cursor.fetchall()
         return jsonify(result)
     except OperationalError as e:

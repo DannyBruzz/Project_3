@@ -1,6 +1,5 @@
 function buildBarPlot() {
-    const url = "/api/dashboard";
-    d3.json(url).then(function(response) {
+    d3.json("/api/dashboard/tin").then(function(response) {
   
       console.log(response);
     });}
