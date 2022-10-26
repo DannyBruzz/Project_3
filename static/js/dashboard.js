@@ -8,11 +8,30 @@ function dropdown() {
 }
 dropdown()
 
-
+d3.selectAll("#selDataset").on("change", buildBarPlot);
 
 function buildBarPlot() {
-    d3.json("/api/dashboard/tin").then(function(response) {
+  let dropdownMenu = d3.select("#selDataset");
+  let commodity = dropdownMenu.property("value");
+  d3.json("/api/dashboard/" + commodity).then(function(response) {
+    let countries = [];
+    let values = []
+    for (i = 0; i < response.length; i++){
+      row = response[i];
+      countries.push(row[0]);
+      values.push(row[1]);
+  }
+  let trace1 = {
+    x: countries,
+    y: values,
+    type: 'bar'
+  };
+  let data = [trace1];
+  let layout = {
+    title: `${commodity}'s First Plotly Chart`
+  };
   
-      console.log(response);
-    });}
-    buildBarPlot()
+  Plotly.newPlot("plot", data, layout);
+  });}
+  buildBarPlot()
+

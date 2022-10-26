@@ -75,19 +75,22 @@
 
     <div class="container">
         <div class="row">
-            <select id="selDataset" onchange="optionChanged(this.value)"></select>
+            <select id="selDataset"></select>
         </div>
     </div>
 
 <div class="container" style="margin-top: 2%; margin-bottom: 2%">
     <div class="row justify-content-md-center" style="border: 1px solid black; padding:2%">
-        <div class="col-12 col-lg-6" style="border: 1px solid lightgray;margin-left: auto;
-            margin-right: auto;">
-            <div id="bubbleChart"></div>
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title">Commodity Prices</h3>
+            </div>
+            <div id="sample-metadata" class="panel-body"></div>
+          </div>
         </div>
         <div class="col-12 col-lg-6" style="border: 1px solid lightgray;margin-left: auto;
             margin-right: auto;">
-            <div id="scatterPlot"></div>
+            <div id="plot"></div>
         </div>
     </div>
 </div>
