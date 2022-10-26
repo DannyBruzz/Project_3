@@ -60,8 +60,12 @@ def index():
 def map_view():
     return render_template("map.html")
 
-# Set route : Dashboard
 @app.route("/dashboard")
+def dash_view():
+    return render_template("dashboard.html")
+# Set route : Dashboard
+@app.route("/api/dashboard")
+
 def execute_read_query():
     connection = create_connection()
     cursor = connection.cursor()
@@ -69,7 +73,7 @@ def execute_read_query():
     try:
         cursor.execute("SELECT * FROM lead")
         result = cursor.fetchall()
-        return result
+        return jsonify(result)
     except OperationalError as e:
         print(f"The error '{e}' occurred")
 
@@ -91,8 +95,7 @@ def create_connection():
     except OperationalError as e:
         print(f"The error '{e}' occurred")
     return connection
-
-
+    
 # for user in users:
 #     print(user)
 # def dash_view():
