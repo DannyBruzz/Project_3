@@ -28,8 +28,16 @@ function buildBarPlot() {
   };
   let data = [trace1];
   let layout = {
-    title: `${commodity}'s First Plotly Chart`
-  };
+    title: `Top 5 export destination for ${commodity}`,
+    yaxis: {
+      title: {
+      text: "Export Values ($US millions)"
+      }},
+    xaxis: {
+      title: {
+      text: "Countries"
+      }}
+   };
   
   Plotly.newPlot("plot", data, layout);
   });}
