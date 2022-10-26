@@ -127,5 +127,63 @@ def api_view():
     return render_template("download_api.html")
 
 
+# class Mines(db.Model):
+#     __tablename__ = 'mindex_filtered_commodities_df'
+    
+#     __table_args__ = {'extend_existing': True} 
+
+#     site_code = db.Column(db.String(300), nullable=True)
+#     proj_code = db.Column(db.String(300), primary_key=True)
+#     title = db.Column(db.String(300), nullable=True)
+#     sub_type = db.Column(db.String(300), nullable=True)
+#     stage = db.Column(db.String(300), nullable=True)
+#     project_title = db.Column(db.String(300), nullable=True)
+#     longitude = db.Column(db.Float, nullable=True)
+#     latitude = db.Column(db.Float, nullable=True)
+#     commodities = db.Column(db.String(300), nullable=True)
+#     commodity_group_name = db.Column(db.String(300), nullable=True)
+#     target_group_name = db.Column(db.String(300), nullable=True)
+#     lga_name = db.Column(db.String(300), nullable=True)
+#     district_name = db.Column(db.String(300), nullable=True)
+#     tectonic_unit = db.Column(db.String(300), nullable=True)
+        
+#     def __repr__(self):
+#         return '<Mines %r>' % self.proj_code
+
+# # API to access all mines on the database
+# @app.route("/api/mines")
+# def mineslist():
+
+#     # Retrieve data from database
+
+#     _mines = (
+#         db.session.query(
+#             Mines.site_code,
+#             Mines.proj_code,
+#             Mines.title,
+#             Mines.sub_type,
+#             Mines.stage,
+#             Mines.project_title,
+#             Mines.longitude,
+#             Mines.latitude,
+#             Mines.commodities,
+#             Mines.commodity_group_name,
+#             Mines.target_group_name,
+#             Mines.lga_name,
+#             Mines.district_name,
+#             Mines.tectonic_unit,
+#         )
+#         .all()
+#     )
+
+#     # Convert the data to a dataframe
+#     _mines_df = pd.DataFrame(_mines)
+
+#     # Convert dataframe to dictionary
+#     _mines_dict = _mines_df.to_dict(orient="records")
+    
+#     # Return json version of the data
+#     return jsonify(_mines_dict)
+
 if __name__ == "__main__":
     app.run(debug=True)
