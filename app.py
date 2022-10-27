@@ -3,8 +3,7 @@ import os
 import datetime as dt
 import numpy as np
 import pandas as pd
-import config
-from config import password
+# from config import password
 
 import sqlalchemy
 import psycopg2
@@ -96,7 +95,38 @@ def create_connection():
     except OperationalError as e:
         print(f"The error '{e}' occurred")
     return connection
-    
+
+@app.route("/api/commodity/<searchTerm>")
+
+def execute_read_query2(searchTerm):
+    connection = create_connection()
+    cursor = connection.cursor()
+    result = None
+    try:
+        cursor.execute(r'SELECT * FROM commodities WHERE "Commodity" = ' + fr"'{searchTerm}'")
+        result = cursor.fetchall()
+        return jsonify(result)
+    except OperationalError as e:
+        print(f"The error '{e}' occurred")
+
+def create_connection2():
+    connection = None
+    username = 'postgres'
+    host = 'localhost'
+    port = 5432
+    database_name = 'project3_db'
+    try:
+        connection = psycopg2.connect(
+            database=database_name,
+            user=username,
+            password="64SonoCeliba!",
+            host=host,
+            port=port,
+        )
+        print("Connection to PostgreSQL DB successful")
+    except OperationalError as e:
+        print(f"The error '{e}' occurred")
+    return connection
 # for user in users:
 #     print(user)
 # def dash_view():
