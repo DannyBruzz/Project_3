@@ -1,6 +1,5 @@
 // Store our API endpoint as queryUrl.
-let importFile =
-  "Mindex_DMIRS_001_WA_GDA2020_Public.geojson";
+let importFile = '/static/data/Mindex_DMIRS_001_WA_GDA2020_Public.geojson';
 
 // Perform a GET request to the query URL/
 d3.json(importFile).then(function (data) {
