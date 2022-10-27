@@ -10,10 +10,10 @@ d3.json(importFile).then(function (data) {
     // Define a function that we want to run once for each feature in the features array.
     // Give each feature a popup that describes the place, location and time of the earthquake.
     function onEachFeature(feature, layer) {
-      layer.bindPopup(`<h3>${feature.properties.short_name}</h3> 
-    Commodity: ${feature.properties.target_com} <br /> 
-    URL: ${feature.properties.web_link} <br /> 
-    DB Site Code: ${new Date(feature.properties.site_code)}</h4>`);
+      layer.bindPopup(`<h2>${feature.properties.short_name}</h2> 
+      <h4> Commodity: ${feature.properties.target_com} <br /> 
+    <a href=${feature.properties.web_link}><h4> Mine MINEDEX profile URL</a> <br />
+    DB Site Code: ${feature.properties.site_code}</h4>`);
     }
 
     // Define function to create the circle radius based on the magnitude
@@ -25,25 +25,30 @@ d3.json(importFile).then(function (data) {
     function circleColor(targetCom) {
       if (targetCom = "GOLD") {
         return "rgb(255,236,34)"; 
-      } else if (targetCom = "NICKEL") {
+      } else if (targetCom == "NICKEL") {
         return "rgb(255,143,69)"; 
-      } else if (targetCom = "IRON ORE") {
+      } else if (targetCom == "IRON ORE") {
         return "rgb(145,19,29)";
-      } else if (targetCom = "COPPER - LEAD - ZINC") {
+      } else if (targetCom == "COPPER - LEAD - ZINC") {
         return "rgb(84,145,135)";
-      } else if (targetCom = "TIN - TANTALUM - LITHIUM") {
+      } else if (targetCom == "TIN - TANTALUM - LITHIUM") {
         return "rgb(145,140,139)";
       } 
     }
 
+    // ----------------------------
+
+
+    // -----------------
+
     // Create a GeoJSON layer that contains the features array on the mineData object.
     // Run the onEachFeature function once for each piece of data in the array.
 
-    let mines = L.geoJSON(mineData, {
-      pointToLayer: function (mineData, latlng) {
+    let mines = L.geoJSON(data, {
+      pointToLayer: function (feature, latlng) {
         return L.circle(latlng, {
           radius: 5000,
-          fillColor: circleColor(mineData.properties.target_com),
+          fillColor: circleColor(feature.properties.target_com),
           fillOpacity: 0.65,
           stroke: false,
         });
@@ -71,21 +76,27 @@ d3.json(importFile).then(function (data) {
 
 // -----------------------------------------------------------------------------------------
 // Change inside here OR remove
+    var gold = L.geoJson(data, { 
+      filter: function(feature) { return feature.properties.target_com == "GOLD" }
+    });
 
-    // TLoad the techtonic plate layer
-    let tectonicPlates = new L.LayerGroup();
+    var nickel = L.geoJson(data, { 
+      filter: function(feature) { return feature.properties.target_com == "NICKEL" }
+    });
 
-    d3.json(
-      "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
-    ).then(function (tectonicPlateData) {
-      L.geoJson(tectonicPlateData,{
-      weight: 2,
-      color : "rgb(34,34,4)"})
-      .addTo(tectonicPlates);
-      tectonicPlates.addTo(myMap)
-      });
-// -----------------------------------------------------------------------------------------
+    var ironOre = L.geoJson(data, { 
+      filter: function(feature) { return feature.properties.target_com == "IRON ORE" }
+    });
 
+    var copperLeadZinc = L.geoJson(data, { 
+      filter: function(feature) { return feature.properties.target_com == "COPPER - LEAD - ZINC" }
+    });
+
+    var tinTantalumLithium = L.geoJson(data, { 
+      filter: function(feature) { return feature.properties.target_com == "TIN - TANTALUM - LITHIUM" }
+    });
+  
+  // -----------------------------------------------------------------------------------------
 
     // Create a baseMaps object.
     let baseMaps = {
@@ -96,7 +107,11 @@ d3.json(importFile).then(function (data) {
     // Create an overlay object to hold our overlay.
     let overlayMaps = {
       "Mine Sites": mines,
-      Tectonic_Plates: tectonicPlates, // This is only for Part 2
+      "Gold": gold,
+      "Nickel": nickel,
+      "Iron Ore": ironOre,
+      "Copper Lead Zinc": copperLeadZinc,
+      "Tin Tantalum Lithium": tinTantalumLithium
     };
 
     // Create our map, giving it the streetmap and mines layers to display on load.
