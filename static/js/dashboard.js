@@ -97,7 +97,7 @@ function buildBarPlot() {
         row = response[i];
         PANEL.append("h6").text(`Commodity: ${row[1]}`);
         console.log(row[1]);
-        PANEL.append("h6").text(`Current price: ${row[2]}`);
+        PANEL.append("h6").text(`Current price: $${row[2]}`);
         console.log(row[2]);
         PANEL.append("h6").text(`Q4/22: $${row[3]}`);
         console.log(row[3]);
