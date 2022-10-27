@@ -65,9 +65,8 @@ d3.json(importFile).then(function (data) {
       }
     );
 
-    let topo = L.tileLayer("https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png", {
-      attribution:
-        'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)',
+    let sattelite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+      attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
     });
 
 // -----------------------------------------------------------------------------------------
@@ -90,8 +89,8 @@ d3.json(importFile).then(function (data) {
 
     // Create a baseMaps object.
     let baseMaps = {
-      "Street Map": street,
-      "Topographic Map": topo,
+      "Street": street,
+      "Sattelite": sattelite,
     };
 
     // Create an overlay object to hold our overlay.
@@ -104,7 +103,7 @@ d3.json(importFile).then(function (data) {
     let myMap = L.map("map", {
       center: [-24, 120],
       zoom: 5,
-      layers: [street, mines],
+      layers: [sattelite, mines],
     });
 
     // Create a layer control.
