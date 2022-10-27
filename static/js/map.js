@@ -103,7 +103,7 @@ d3.json(importFile).then(function (data) {
     let myMap = L.map("map", {
       center: [-24, 120],
       zoom: 5,
-      layers: [sattelite, mines],
+      layers: [street, mines],
     });
 
     // Create a layer control.

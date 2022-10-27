@@ -194,3 +194,23 @@ This class makes the topnav look good on small screens (display the links vertic
   }
 }
 
+/* Remove the default margin and padding from the body. */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.legend {
+  padding: 20px;
+  background-color: rgb(180,180,180);
+  border-radius: 10px;
+  line-height: 20px;
+  font-weight: bolder;
+}
+
+.legend i {
+  float: left;
+  margin-right: 8px;
+  width: 18px;
+  height: 18px;
+}
