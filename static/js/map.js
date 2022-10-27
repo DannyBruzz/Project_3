@@ -12,7 +12,7 @@ d3.json(importFile).then(function (data) {
     function onEachFeature(feature, layer) {
       layer.bindPopup(`<h2>${feature.properties.short_name}</h2> 
       <h4> Commodity: ${feature.properties.target_com} <br /> 
-    <a href=${feature.properties.web_link}><h4> Mine MINEDEX profile URL</a> <br />
+    <a href=${feature.properties.web_link} target="_blank"><h4> Mine MINEDEX profile URL</a> <br />
     DB Site Code: ${feature.properties.site_code}</h4>`);
     }
 
@@ -35,11 +35,6 @@ d3.json(importFile).then(function (data) {
         return "rgb(145,140,139)";
       } 
     }
-
-    // ----------------------------
-
-
-    // -----------------
 
     // Create a GeoJSON layer that contains the features array on the mineData object.
     // Run the onEachFeature function once for each piece of data in the array.
