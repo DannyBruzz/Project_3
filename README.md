@@ -2,6 +2,8 @@
 
 Project 3 (Group 5)
 
+MINDEX - Mining data in WA
+
 To run load and run app.py.
 
 Slideshow presentation below.
