@@ -97,7 +97,7 @@ def create_connection2():
         connection = psycopg2.connect(
             database=database_name,
             user=username,
-            password="64SonoCeliba!",
+            password=password,
             host=host,
             port=port,
         )
