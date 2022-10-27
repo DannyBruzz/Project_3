@@ -1,69 +1,115 @@
-// An array of cities and their locations
-let cities = [
-  {
-    name: "Perth",
-    location: [-31.943447067351986, 115.737218695386]
-  },
-  {
-    name: "Albany",
-    location: [-35.06420847839147, 117.78005221796197]
-  },
-  {
-    name: "Margaret River",
-    location: [-33.961986936847815, 115.11503589663192]
-  },
-  {
-    name: "Kalgoorie",
-    location: [-30.774630677675194, 121.51314901048652]
+
+// Store our API endpoint as queryUrl.
+  
+let importFile = "/data/Mindex_DMIRS_001_WA_GDA2020_Public.geojson";
+
+// Perform a GET request to the query URL/
+d3.json(importFile).then(function (data) {
+  // Once we get a response, send the data.features object to the createFeatures function.
+  createFeatures(data.features);
+
+  function createFeatures(mineData) {
+    // Define a function that we want to run once for each feature in the features array.
+    // Give each feature a popup that describes the place, location and time of the earthquake.
+    function onEachFeature(feature, layer) {
+      layer.bindPopup(`<h3>${feature.properties.short_name}</h3> 
+    Commodity: ${feature.properties.target_com} <br /> 
+    URL: ${feature.properties.web_link} <br /> 
+    DB Site Code: ${new Date(feature.properties.site_code)}</h4>`);
+    }
+
+    // Define function to create the circle radius based on the magnitude
+    // function radiusSize(magnitude) {
+    //   return magnitude * 50000;
+    // }
+
+    // Define function to set the circle color based on the depth of epicentre, mines with greater depth from surface (elevation) should appear darker in colour
+    function circleColor(targetCom) {
+      if (targetCom = "GOLD") {
+        return "rgb(255,236,34)"; 
+      } else if (targetCom = "NICKEL") {
+        return "rgb(255,143,69)"; 
+      } else if (targetCom = "IRON ORE") {
+        return "rgb(145,19,29)";
+      } else if (targetCom = "COPPER - LEAD - ZINC") {
+        return "rgb(84,145,135)";
+      } else if (targetCom = "TIN - TANTALUM - LITHIUM") {
+        return "rgb(145,140,139)";
+      } 
+    }
+
+    // Create a GeoJSON layer that contains the features array on the mineData object.
+    // Run the onEachFeature function once for each piece of data in the array.
+
+    let mines = L.geoJSON(mineData, {
+      pointToLayer: function (mineData, latlng) {
+        return L.circle(latlng, {
+          radius: 5000,
+          fillColor: circleColor(mineData.properties.target_com),
+          fillOpacity: 0.65,
+          stroke: false,
+        });
+      },
+      onEachFeature: onEachFeature,
+    });
+
+    // Send our mines layer to the createMap function/
+    createMap(mines);
   }
-];
 
-// An array that will store the created cityMarkers
-let cityMarkers = [];
+  function createMap(mines) {
+    // Create the base layers.
+    let street = L.tileLayer(
+      "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      {
+        attribution:
+          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      }
+    );
 
-for (let i = 0; i < cities.length; i++) {
-  // loop through the cities array, create a new marker, and push it to the cityMarkers array
-  cityMarkers.push(
-    L.marker(cities[i].location).bindPopup("<h4>" + cities[i].name + "</h4>")
-  );
-}
-
-// Add all the cityMarkers to a new layer group.
-// Now, we can handle them as one group instead of referencing each one individually.
-let cityLayer = L.layerGroup(cityMarkers);
-
-// Define variables for our tile layers.
-let street = L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
-	maxZoom: 19,
-	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>'
-});
-
-let sattelite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-	attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
-});
-
-// Only one base layer can be shown at a time.
-let baseMaps = {
-  Street: street,
-  Sattelite: sattelite
-};
-
-// Overlays that can be toggled on or off
-let overlayMaps = {
-  Cities: cityLayer
-};
+    let topo = L.tileLayer("https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png", {
+      attribution:
+        'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)',
+    });
 
 
-// Create a map object, and set the default layers.
-let myMap = L.map("map", {
-  center: [-24, 120],
-  zoom: 5,
-  layers: [street, cityLayer]
-});
+        // TLoad the techtonic plate layer
+        let tectonicPlates = new L.LayerGroup();
 
-// Pass our map layers into our layer control.
-// Add the layer control to the map.
-L.control.layers(baseMaps, overlayMaps, {
-  collapsed: false
-    }).addTo(myMap);
+        d3.json(
+          "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
+        ).then(function (tectonicPlateData) {
+          L.geoJson(tectonicPlateData,{
+          weight: 2,
+          color : "rgb(34,34,4)"})
+          .addTo(tectonicPlates);
+          tectonicPlates.addTo(myMap)
+          });
+          
+    // Create a baseMaps object.
+    let baseMaps = {
+      "Street Map": street,
+      "Topographic Map": topo,
+    };
 
+    // Create an overlay object to hold our overlay.
+    let overlayMaps = {
+      "Mine Sites": mines,
+      Tectonic_Plates: tectonicPlates, // This is only for Part 2
+    };
+
+    // Create our map, giving it the streetmap and mines layers to display on load.
+    let myMap = L.map("map", {
+      center: [-24, 120],
+      zoom: 5,
+      layers: [street, mines],
+    });
+
+    // Create a layer control.
+    L.control
+      .layers(baseMaps, overlayMaps, {
+        collapsed: false,
+      })
+      .addTo(myMap);
+    }
+  });

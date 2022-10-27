@@ -1,6 +1,6 @@
 // Store our API endpoint as queryUrl.
 let importFile =
-  "Mindex_DMIRS_001_WA_GDA2020_Public.geojson";
+  "/data/Mindex_DMIRS_001_WA_GDA2020_Public.geojson";
 
 // Perform a GET request to the query URL/
 d3.json(importFile).then(function (data) {
@@ -66,46 +66,30 @@ d3.json(importFile).then(function (data) {
       }
     );
 
-    let topo = L.tileLayer("https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png", {
-      attribution:
-        'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)',
-    });
-
-// -----------------------------------------------------------------------------------------
-// Change inside here OR remove
-
-    // TLoad the techtonic plate layer
-    let tectonicPlates = new L.LayerGroup();
-
-    d3.json(
-      "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
-    ).then(function (tectonicPlateData) {
-      L.geoJson(tectonicPlateData,{
-      weight: 2,
-      color : "rgb(34,34,4)"})
-      .addTo(tectonicPlates);
-      tectonicPlates.addTo(myMap)
-      });
-// -----------------------------------------------------------------------------------------
-
+    let sattelite = L.tileLayer(
+      'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+      {
+        attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community',
+      }
+    );
 
     // Create a baseMaps object.
     let baseMaps = {
-      "Street Map": street,
-      "Topographic Map": topo,
+      "Street": street,
+      "Sattelite": sattelite,
     };
 
     // Create an overlay object to hold our overlay.
     let overlayMaps = {
       "Mine Sites": mines,
-      Tectonic_Plates: tectonicPlates, // This is only for Part 2
+      
     };
 
     // Create our map, giving it the streetmap and mines layers to display on load.
     let myMap = L.map("map", {
       center: [-24, 120],
       zoom: 5,
-      layers: [street, mines],
+      layers: [sattelite, mines],
     });
 
     // Create a layer control.

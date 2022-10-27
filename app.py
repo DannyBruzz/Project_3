@@ -185,5 +185,7 @@ def api_view():
 #     # Return json version of the data
 #     return jsonify(_mines_dict)
 
+
+
 if __name__ == "__main__":
     app.run(debug=True)
