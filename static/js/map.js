@@ -1,7 +1,6 @@
-
 // Store our API endpoint as queryUrl.
-  
-let importFile = "/data/Mindex_DMIRS_001_WA_GDA2020_Public.geojson";
+let importFile =
+  "Mindex_DMIRS_001_WA_GDA2020_Public.geojson";
 
 // Perform a GET request to the query URL/
 d3.json(importFile).then(function (data) {
@@ -72,20 +71,24 @@ d3.json(importFile).then(function (data) {
         'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)',
     });
 
+// -----------------------------------------------------------------------------------------
+// Change inside here OR remove
 
-        // TLoad the techtonic plate layer
-        let tectonicPlates = new L.LayerGroup();
+    // TLoad the techtonic plate layer
+    let tectonicPlates = new L.LayerGroup();
 
-        d3.json(
-          "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
-        ).then(function (tectonicPlateData) {
-          L.geoJson(tectonicPlateData,{
-          weight: 2,
-          color : "rgb(34,34,4)"})
-          .addTo(tectonicPlates);
-          tectonicPlates.addTo(myMap)
-          });
-          
+    d3.json(
+      "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
+    ).then(function (tectonicPlateData) {
+      L.geoJson(tectonicPlateData,{
+      weight: 2,
+      color : "rgb(34,34,4)"})
+      .addTo(tectonicPlates);
+      tectonicPlates.addTo(myMap)
+      });
+// -----------------------------------------------------------------------------------------
+
+
     // Create a baseMaps object.
     let baseMaps = {
       "Street Map": street,
@@ -111,5 +114,35 @@ d3.json(importFile).then(function (data) {
         collapsed: false,
       })
       .addTo(myMap);
-    }
-  });
+
+    // Set up the legend.
+
+    // let legend = L.control({ position: "bottomright" });
+    // legend.onAdd = function () {
+    //   let div = L.DomUtil.create("div", "info legend"),
+    //     legendScale = ["-10", "10", "30", "50", "70", "90"],
+
+    //     labels = ["rgb(252,79,76)", 
+    //               "rgb(214,64,61)", 
+    //               "rgb(176,49,46)", 
+    //               "rgb(138,34,31)",
+    //               "rgb(100,19,16)",
+    //               "rgb(62,0,0)",
+    //             ];
+
+    //   for (let i = 0; i < legendScale.length; i++) {
+    //     div.innerHTML +=
+    //     // "<h1> Depth from Surface </h1>"
+    //       "<i style='background:" +
+
+    //       labels[i] + "'></i> " + legendScale[i] +
+    //       (legendScale[i + 1] ? "&ndash;" + legendScale[i + 1] + "<br>" : "+");
+    //   }
+    //   return div;
+
+    // };
+    // legend.addTo(myMap);
+  }
+});
+
+
