@@ -3,7 +3,6 @@ import os
 import datetime as dt
 import numpy as np
 import pandas as pd
-# from config import password
 
 import sqlalchemy
 import psycopg2
@@ -21,33 +20,10 @@ import psycopg2
 from psycopg2 import OperationalError
 
 
-# Database Setup
-
-# protocol = 'postgresql'
-# username = 'postgres'
-# password = password
-# host = 'localhost'
-# port = 5432
-# database_name = 'project3_db'
-# rds_connection_string = f'{protocol}://{username}:{password}@{host}:{port}/{database_name}'
-# engine = create_engine(rds_connection_string)
-# conn = engine.connect()
 
 # Flask Setup
 app = Flask(__name__)
 
-# app.config["SQLALCHEMY_DATABASE_URI"] = rds_connection_string
-# app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
-
-# db = SQLAlchemy(app)
-
-# # Create class
-# class Mines(db.Model):
-#     __tablename__ = "mindex_filtered_commodities_df"
-
-#     id = db.Column(db.Integer, primary_key=True)
-#     latitude = db.Column(db.Float, nullable=True)
-#     longitude = db.Column(db.Float, nullable=True)
 
 # Set route : Home
 @app.route("/")
@@ -58,12 +34,13 @@ def index():
 @app.route("/map")
 def map_view():
     return render_template("map.html")
+
 # Set route : Dashboard
 @app.route("/dashboard")
 def dash_view():
     return render_template("dashboard.html")
 
-# Set route : Dashboard
+# Calling individual commodity table
 @app.route("/api/dashboard/<commodity>")
 
 def execute_read_query(commodity):
@@ -96,6 +73,7 @@ def create_connection():
         print(f"The error '{e}' occurred")
     return connection
 
+# Calling commodity
 @app.route("/api/commodity/<searchTerm>")
 
 def execute_read_query2(searchTerm):
@@ -127,93 +105,12 @@ def create_connection2():
     except OperationalError as e:
         print(f"The error '{e}' occurred")
     return connection
-# for user in users:
-#     print(user)
-# def dash_view():
-#     results = conn.session.query(commodities).all()
-
-#     commodity = [result[0] for result in results]
-#     price = [result[1] for result in results]
-#     Q4 = [result[2] for result in results]
-#     Q1 = [result[3] for result in results]
-#     Q2 = [result[4] for result in results]
-#     LQ = [result[5] for result in results]
-
-
-#     com_data = [{
-#         "mineral": commodity,
-#         "price": price,
-#         "Q4/22": Q4,
-#         "Q1/23": Q1,
-#         "Q2/23": Q2,
-#         "Q3/23": LQ,
-#     }]
-
-#     return render_template("dashboard.html", jsonify(com_data))
 
 # Set route : Map
 @app.route("/download_api")
 def api_view():
     return render_template("download_api.html")
 
-
-# class Mines(db.Model):
-#     __tablename__ = 'mindex_filtered_commodities_df'
-    
-#     __table_args__ = {'extend_existing': True} 
-
-#     site_code = db.Column(db.String(300), nullable=True)
-#     proj_code = db.Column(db.String(300), primary_key=True)
-#     title = db.Column(db.String(300), nullable=True)
-#     sub_type = db.Column(db.String(300), nullable=True)
-#     stage = db.Column(db.String(300), nullable=True)
-#     project_title = db.Column(db.String(300), nullable=True)
-#     longitude = db.Column(db.Float, nullable=True)
-#     latitude = db.Column(db.Float, nullable=True)
-#     commodities = db.Column(db.String(300), nullable=True)
-#     commodity_group_name = db.Column(db.String(300), nullable=True)
-#     target_group_name = db.Column(db.String(300), nullable=True)
-#     lga_name = db.Column(db.String(300), nullable=True)
-#     district_name = db.Column(db.String(300), nullable=True)
-#     tectonic_unit = db.Column(db.String(300), nullable=True)
-        
-#     def __repr__(self):
-#         return '<Mines %r>' % self.proj_code
-
-# # API to access all mines on the database
-# @app.route("/api/mines")
-# def mineslist():
-
-#     # Retrieve data from database
-
-#     _mines = (
-#         db.session.query(
-#             Mines.site_code,
-#             Mines.proj_code,
-#             Mines.title,
-#             Mines.sub_type,
-#             Mines.stage,
-#             Mines.project_title,
-#             Mines.longitude,
-#             Mines.latitude,
-#             Mines.commodities,
-#             Mines.commodity_group_name,
-#             Mines.target_group_name,
-#             Mines.lga_name,
-#             Mines.district_name,
-#             Mines.tectonic_unit,
-#         )
-#         .all()
-#     )
-
-#     # Convert the data to a dataframe
-#     _mines_df = pd.DataFrame(_mines)
-
-#     # Convert dataframe to dictionary
-#     _mines_dict = _mines_df.to_dict(orient="records")
-    
-#     # Return json version of the data
-#     return jsonify(_mines_dict)
 
 
 
